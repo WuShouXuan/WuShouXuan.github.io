@@ -52,6 +52,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
 - **(Ongoing/Under Review)** Domain-Specific-Modeling-based Multi-Architecture Design Method for the Landing Gear System, **Shouxuan Wu**, Guoxin Wang, Zan Liang,
   Tao Zhang, Zhenqiang Qi, Yihui Gong, Haoxuan Zhang, Zhen Zhang. | 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻,机械工程学报.
+- **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong,  Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
 - **(Ongoing)** 面向MBSE的起落架系统模型集成技术, 张浩轩,王国新,鲁金直,**吴绶玄**,图学学报.
 
 ## Conference Paper
