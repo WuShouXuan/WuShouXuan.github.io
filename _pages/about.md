@@ -22,11 +22,11 @@ redirect_from:
 I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar at the [SIRIUS research center](https://sirius-labs.no/) in the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
 Besides, I severed as a reviewer for _Journal of Industrial Information Integration_.
 
-My research interests are Cognitive Digital Thread and Model-based Systems Engineering tool-chain design, and in particular with:
-- Concept & Technology of Cognitive Digital thread 
-- Ontology Design / Formalization for Model-based Systems Engineering tool-chain
-- Model-based Systems Engineering tool-chain design automation
-- Service-oriented tool interoperation and integration 
+My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
+- Concept & Framework of CDT 
+- Ontology Design / Formalization of CDT 
+- Service-oriented tool-chain design for CDT
+- Scenarios of CDT in MBSE development process
 
 My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
