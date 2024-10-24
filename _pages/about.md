@@ -82,6 +82,10 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - *2023.03*, "基于多架构建模语言的系统工程建模方法" invited by in System Engineering Society of China  \| [\[video\]](https://www.bilibili.com/video/BV1Ph4y1M7HQ/?spm_id_from=333.999.0.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
 - *2021.06*, "Cognitive Thread Supports System of Systems for Complex System Development" invited by SoSE 2021  \| [\[video\]](https://www.bilibili.com/video/BV1jr4y1r7Gp/?spm_id_from=333.788.videocard.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
 
+# 💼 Service
+## Journal Reviewer
+- _Journal of Industrial Information Integration_
+
 <span class='anchor' id='projects'></span>
 
 [//]: # (# 🔨 Project  )
@@ -115,6 +119,3 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=Ty4k3O_vxcx4PxqQv-Ai_DOtHZrXai3T72vSBL5D0Uo&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
 
 
-# 💼 Service
-## Journal Reviewer
-- _Journal of Industrial Information Integration_ 
