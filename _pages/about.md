@@ -19,7 +19,8 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar at the [SIRIUS research center](https://sirius-labs.no/) in the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China. 
+I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar at the [SIRIUS research center](https://sirius-labs.no/) in the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
+Besides, I severed as a reviewer for _Journal of Industrial Information Integration_.
 
 My research interests are Cognitive Digital Thread and Model-based Systems Engineering tool-chain design, and in particular with:
 - Concept & Technology of Cognitive Digital thread 
@@ -113,6 +114,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 [//]: # (</div>)
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=Ty4k3O_vxcx4PxqQv-Ai_DOtHZrXai3T72vSBL5D0Uo&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
 
-<!--
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 💼 Service
+## Journal Reviewer
+- _Journal of Industrial Information Integration_ 
