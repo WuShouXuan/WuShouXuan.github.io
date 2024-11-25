@@ -37,7 +37,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 
 <span class='anchor' id='education'></span>
 # 📖 Educations
-- *2024.07 -*, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Ph.D. Student.
+- *2024.11 - 2025.11*, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Scholar.
 - *2020.06 - now*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. Student.
 - *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
 
@@ -51,10 +51,10 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - System Engineering Modeling Methodology based on Multi-architectural Modeling Language, Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen, Journal of System Engineering, 2023,38(02): 146-160. [基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT),鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰, **系统工程学报**,2023,38(02):146-160.DOI:10.13383/j.cnki.jse.2023.02.001.
 - **(Ongoing/Under Review)** Digital Thread In Engineering: Concept, State of Art, and Enabling Framework. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis.
 - **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
-- **(Ongoing/Under Review)** Domain-Specific-Modeling-based Multi-Architecture Design Method for the Landing Gear System, **Shouxuan Wu**, Guoxin Wang, Zan Liang,
-  Tao Zhang, Zhenqiang Qi, Yihui Gong, Haoxuan Zhang, Zhen Zhang. | 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻,机械工程学报.
+- **(Ongoing/Under Review)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻. 机械工程学报.
+- **(Ongoing)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,乔佳兴,董梦如,龚逸辉. 机械工程学报. 
 - **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong,  Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
-- **(Ongoing)** 面向MBSE的起落架系统模型集成技术, 张浩轩,王国新,鲁金直,**吴绶玄**,图学学报.
+- **(Ongoing)** 面向MBSE的起落架系统模型集成技术, 张浩轩,王国新,鲁金直,**吴绶玄**.图学学报.
 
 ## Conference Paper
 - **(To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, **Shouxuan Wu**. **2024 15th Complex Systems Design & Management (CSD&M) conference**
