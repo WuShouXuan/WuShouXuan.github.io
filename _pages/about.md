@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar at the [SIRIUS research center](https://sirius-labs.no/) in the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
+I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
 Besides, I severed as a reviewer for _Journal of Industrial Information Integration_.
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
@@ -52,9 +52,9 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - **(Ongoing/Under Review)** Digital Thread In Engineering: Concept, State of Art, and Enabling Framework. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis.
 - **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
 - **(Ongoing/Under Review)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻. 机械工程学报.
-- **(Ongoing)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,乔佳兴,董梦如,龚逸辉. 机械工程学报. 
+- **(Ongoing/Under Review)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,龚逸辉,董梦如,张浩轩,乔佳兴,黄建宇. 机械工程学报. 
 - **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong,  Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
-- **(Ongoing)** 面向MBSE的起落架系统模型集成技术, 张浩轩,王国新,鲁金直,**吴绶玄**.图学学报.
+- **(Ongoing/Under Review)** 面向MBSE的起落架系统模型集成技术, 张浩轩,王国新,鲁金直,**吴绶玄**.图学学报.
 
 ## Conference Paper
 - **(To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, **Shouxuan Wu**. **2024 15th Complex Systems Design & Management (CSD&M) conference**
