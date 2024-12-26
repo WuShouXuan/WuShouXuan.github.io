@@ -6,18 +6,20 @@ main:
   - title: "News & Updates"
     url: "/#news"
 
+  - title: "Educations"
+    url: "/#education"
+
   - title: "Publications"
     url: "/#publications"
 
   - title: "Honors and Awards"
     url: "/#honors"
 
-  - title: "Educations"
-    url: "/#education"
+
 
   - title: "Presentations"
     url: "/#presentation"
 
-  - title: "Projects"
-    url: "/#projects"
+  - title: "Service"
+    url: "/#service"
 
