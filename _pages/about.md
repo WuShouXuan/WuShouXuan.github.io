@@ -55,7 +55,8 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - **(Ongoing/Under Review)** Digital Thread In Engineering: Concept, State of Art, and Enabling Framework. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis.
 - **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
 - **(Ongoing/Under Review)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,龚逸辉,张浩轩,张臻. 机械工程学报.
-- **(Ongoing/Under Review)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,龚逸辉,董梦如,张浩轩,乔佳兴,黄建宇. 机械工程学报. 
+- **(Ongoing/Under Review)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,龚逸辉,董梦如,张浩轩,乔佳兴,黄建宇. 机械工程学报.
+- **(Ongoing)** A Semantic Modeling Framework Enhancing Asset Management Perspective for Model-based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Mengru Dong, Dimitris Kiritsis, and Arild Waaler.
 - **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong,  Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
 
 
