@@ -32,7 +32,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
-- *2024.04*: &nbsp;🎉🎉 The journal paper "Domain-Specific-Modeling-based Multi-Architecture Design Method for Landing Gear System"("基于特定域建模的起落架系统多架构设计方法") has been accepted by the _Journal of Mechanical Engineering_.
+- *2025.01*: &nbsp;🎉🎉 The journal paper "Domain-Specific-Modeling-based Multi-Architecture Design Method for Landing Gear System"("基于特定域建模的起落架系统多架构设计方法") has been accepted by the _Journal of Mechanical Engineering_.
 - *2024.12*: &nbsp;🎉🎉 Our journal paper is accepted by _Journal of Graphics_. Congrats to Haoxuan!
 - *2024.12*: &nbsp;🎉🎉 Our conference paper is accepted by CSD&M 2024. Congrats to Jiawei!
 - *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. (Co-Supervisor: Prof. Arild Waaler and Prof. Dimitris Kiritsis)
