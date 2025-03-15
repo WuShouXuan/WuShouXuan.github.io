@@ -59,7 +59,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
 - **(Ongoing/Under Review)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,龚逸辉,董梦如,张浩轩,乔佳兴,黄建宇. 
 - **(Ongoing)** 面向空间智能的基于模型系统工程方法, 鲁金直,王国新,唐锡晋,田凌,王坚,温跃杰,唐俊杰,唐剑,张旸旸,兰小平,刘奇,李俊霖,陈晋砾,马君达,**吴绶玄**,胡晓度.
-- **(Ongoing)** Cognitive Digital Thread Tool-chain for Asset Information Model Management in Model-based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Mengru Dong, Dimitris Kiritsis, and Arild Waaler.
+- **(Ongoing)** Cognitive Digital Thread Tool-chain for Model Federation in Model-based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Mengru Dong, Dimitris Kiritsis.
 - **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong,  Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
 
 
