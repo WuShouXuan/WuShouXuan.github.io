@@ -58,9 +58,10 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen.[System Engineering Modeling Methodology based on Multi-architectural Modeling Language](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _Journal of System Engineering_, 2023,38(02): 146-160.// 鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰.[基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _系统工程学报_,2023,38(02):146-160.
 - **(Ongoing/Under Review)** Cognitive Digital Thread Tool-Chain for Model Versioning in Model-Based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
 - **(Ongoing/Under Review)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,龚逸辉,董梦如,张浩轩,乔佳兴,黄建宇. 
-- **(Ongoing)** 面向空间智能的基于模型系统工程方法, 鲁金直,王国新,唐锡晋,田凌,王坚,温跃杰,唐俊杰,唐剑,张旸旸,兰小平,刘奇,李俊霖,陈晋砾,马君达,**吴绶玄**,胡晓度.
+- **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong, Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
+- **(Ongoing/Under Review)** 面向空间智能的基于模型系统工程方法, 鲁金直,王国新,唐锡晋,田凌,王坚,温跃杰,唐俊杰,唐剑,张旸旸,兰小平,刘奇,李俊霖,陈晋砾,马君达,**吴绶玄**,胡晓度.
 - **(Ongoing)** Cognitive Digital Thread Tool-chain for Model Federation in Model-based Systems Engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Mengru Dong, Dimitris Kiritsis.
-- **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong,  Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
+- **(Ongoing)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework. Mengru Dong, Guoxin Wang, Jinzhi Lu, Junda Ma, **Shouxuan Wu**, Yihui Gong, Yan Yan.
 
 
 ## Conference Paper
