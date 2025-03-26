@@ -35,14 +35,13 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - *2025.03*: &nbsp;🎉🎉 The journal paper "Digital Thread In Engineering: Concept, State of Art, and Enabling Framework" is accepted by the _Advanced Engineering Informatics_.
 - *2025.01*: &nbsp;🎉🎉 The journal paper "Domain-Specific-Modeling-based Multi-Architecture Design Method for Landing Gear System"("基于特定域建模的起落架系统多架构设计方法") has been accepted by the _Journal of Mechanical Engineering_.
 - *2024.12*: &nbsp;🎉🎉 Our journal paper is accepted by _Journal of Graphics_. Congrats to Haoxuan!
-- *2024.12*: &nbsp;🎉🎉 Our conference paper is accepted by CSD&M 2024. Congrats to Jiawei!
-- *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. (Co-Supervisor: Prof. Arild Waaler and Prof. Dimitris Kiritsis)
+- *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. 
 - *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_.
 
 <span class='anchor' id='education'></span>
 # 📖 Educations
-- *2024.11 - 2025.11*, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Scholar.
-- *2020.06 - now*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. Student.
+- *2024.11 - 2025.11*, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Scholar. (Supervisor: Prof. Arild Waaler and Prof. Dimitris Kiritsis)
+- *2020.06 - now*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. Student. (Supervisor: Prof. Guoxin Wang)
 - *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
 
 <span class='anchor' id='publications'></span>
