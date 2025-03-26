@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 
 I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
-I am the main contributor of the [KARMA](https://github.com/jinzhiBUAA/KARMA-language-specification) language. Besides, I severed as a reviewer for several top journals, including _Journal of Industrial Information Integration_ and _Advanced Engineering Informatics_.
+I am the main contributor of the [KARMA](https://github.com/jinzhiBUAA/KARMA-language-specification) language. Besides, I severed as a reviewer for several top journals, including _Journal of Industrial Information Integration.
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
 - Concept & Framework of CDT 
@@ -94,7 +94,6 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 # 💼 Service
 ## Journal Reviewer
 - _Journal of Industrial Information Integration_
-- _Advanced Engineering Informatics_
 
 <span class='anchor' id='projects'></span>
 
