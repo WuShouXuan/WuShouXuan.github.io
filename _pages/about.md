@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 
 I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
-I am the main contributor of the [KARMA](https://github.com/jinzhiBUAA/KARMA-language-specification) language. Besides, I severed as a reviewer for several top journals, including _Journal of Industrial Information Integration.
+I am the main contributor of the [KARMA](https://github.com/jinzhiBUAA/KARMA-language-specification) language. Besides, I severed as a reviewer of _Journal of Industrial Information Integration_.
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
 - Concept & Framework of CDT 
@@ -50,7 +50,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 ## Journal Paper 
 
 -  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitris Kiritsis. [Design Ontology for Cognitive Thread Supporting Traceability Management in Model-based Systems Engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 15.7, Top journal)**
-- **(Accept, To be published)**  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. Digital Thread In Engineering: Concept, State of Art, and Enabling Framework[J]. _Advanced Engineering Informatics_, 2025.**(SCI, _IF_: 8, Top journal)** 
+-  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital Thread In Engineering: Concept, State of Art, and Enabling Framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 8, Top journal)** 
 - **(Accept, To be published)** Domain-Specific-Modeling-based Multi-Architecture Design Method for Landing Gear System, **Shouxuan Wu**, Guoxin Wang, Zan Liang, Tao Zhang, Zhenqiang Qi, Jinzhi Lu, Yan Yan, Yihui Gong, Haoxuan Zhang, Zhen Zhang[J]. _Journal of Mechanical Engineering_, 2025.**(EI, Top journal)**.// 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,鲁金直,阎艳,龚逸辉,张浩轩,张臻[J]. _机械工程学报_, 2025.**(EI检索，重要期刊）**.
 - Haoxuan Wang, Guoxin Wang, Zan Liang, **Shouxuan Wu**, Jinzhi Lu, Yan Yan, and Yongji Yuan. [Model integration technology for landing gear system based on MBSE](http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html)[J/OL]. _Journal of Graphics_,1-13[2025-02-15].// 张浩轩,王国新,梁赞,**吴绶玄**,鲁金直,阎艳,袁永吉.[面向MBSE的起落架系统模型集成技术](http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html)[J/OL], _图学学报_.,1-13[2025-02-15].
 - Xiaoping Lan, Zhiqiang Yao, **Shouxuan Wu**, Guoxin Wang, Jianxin Yang. [Traceability Management Approach for Complex System Development based on MBSE](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT) [J]. _Journal of System Engineering_,2023,38(03): 289-303.// 兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新.[面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT)[J]. _系统工程学报_,2023,38(03):289-303.
