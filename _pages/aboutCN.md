@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /CN
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about/CN
+  - /aboutCN.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -19,6 +19,7 @@ redirect_from:
 
 # About Me
 
+中文版本
 I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
 I am the main contributor of the [KARMA](https://github.com/jinzhiBUAA/KARMA-language-specification) language. Besides, I severed as a reviewer of _Journal of Industrial Information Integration_.
 
@@ -29,7 +30,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - Scenarios of CDT in MBSE development process
 
 My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-中文版本请见[这里](https://wushouxuan.github.io/CN)。
+
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
 - *2025.03*: &nbsp;🎉🎉 The journal paper "Digital Thread In Engineering: Concept, State of Art, and Enabling Framework" is accepted by the _Advanced Engineering Informatics_.
