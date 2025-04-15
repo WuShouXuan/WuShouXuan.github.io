@@ -73,6 +73,20 @@ English version see [here](https://wushouxuan.github.io)。
 - [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , _World Conference on Information Systems and Technologies 2021_
 - [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, _2021 16th International Conference of System of Systems Engineering (SoSE)_**(EI检索）**.
 
+<span class='anchor' id='patents'></span>
+
+# 专利
+- 王国新; **吴绶玄**; 鲁金直; 阎艳.一种基于模型的产品研制流程设计方法及装置.发明专利,CN202211237974.2. (已授权)
+- 王国新; **吴绶玄**; 张涛; 梁赞; 祁振强; 李鑫; 于昊楠.一种基于元建模的起落架元模型构建方法及装置.发明专利,CN202311667514.8. (已授权)
+- 王国新,**吴绶玄**,张浩轩,乔佳兴,袁永吉,阎艳. 一种基于 MBSE 的飞行器起落架系统模型集成方法.发明专利.CN202510071233.9 (已受理)
+- 王国新; 龚逸辉; **吴绶玄**.一种飞行器起落架模型的代码生成及设计验证方法及装置.发明专利,CN202311744541.0 (已受理)
+- 王国新; 董梦如; 鲁金直; 马君达; **吴绶玄**; 李嘉伟; 刘智清; 于冬梅; 吴浩玚; 南逸飞; 张绪春; 李果.一种支持系统多层级建模及仿真验证的方法及装置.发明专利,CN202311785415.X (已受理)
+- 王国新,李嘉伟,马君达,龚逸辉,**吴绶玄**,董梦如.一种支持运载火箭供配电系统设计的模型转换方法.发明专利,CN2024108275133 (已受理)
+- 王国新,李嘉伟,董梦如,马君达,**吴绶玄**.一种支持复杂系统指标关联融合与验证的方法及系统.发明专利,CN2024108275063 (已受理)
+- 王国新,乔佳兴,张涛,梁赞,祁振强,**吴绶玄**,李鑫,于昊楠,褚光元,汪京昊,李剑.一种基于元元模型的航天装备建模语言设计方法.发明专利, 2025100199085 (已受理)
+- 王国新; 董梦如; 鲁金直; 马君达; **吴绶玄**.一种基于本体的复杂系统设计过程需求追溯方法.发明专利, CN119129279A (已受理)
+- 王国新; 董梦如; 鲁金直; 马君达; **吴绶玄**; 龚逸辉; 袁永吉.一种支持复杂系统需求完整性建模和评估的方法.发明专利, CN119166868A (已受理)
+
 
 <span class='anchor' id='honors'></span>
 
