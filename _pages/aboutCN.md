@@ -21,11 +21,11 @@ redirect_from:
 
 北京理工大学机械工程博士研究生，挪威奥斯陆大学[SIRIUS研究中心](https://sirius-labs.no/)联合培养博士生（2024-2025）。
 - 发表学术论文13篇（其中以第一作者身份发表领域顶级SCI/EI论文5篇，累计影响因子超30）<a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>；
-- 授权/受理国家发明专利10余项；
+- 授权/受理国家发明专利13项；
 - 担任J IND INF INTEGR等中科院Top期刊审稿人；
-- 国家留学基金委奖学金获得者（2024），作为负责人获第三届“启航杯”MBSE建模大赛冠军（2022），获第七届中国“互联网+”等创新创业大赛省部级一等奖2项（2021）；
+- 国家留学基金委奖学金获得者（2024）；
+- 作为负责人获第三届“启航杯”MBSE建模大赛冠军（2022），获第七届中国“互联网+”等创新创业大赛省部级一等奖2项（2021）；
 - [KARMA语言](https://github.com/jinzhiBUAA/KARMA-language-specification)核心贡献成员；
-- 中国机械工程学会、系统工程学会会员
 - 受中国系统工程学会邀请作特刊报告（2022）；
 - 参与中国图学学会学科发展报告撰写工作（2024）；
 - 作为核心骨干参与省部级以上科研项目6项。
@@ -41,7 +41,7 @@ English version see [here](https://wushouxuan.github.io)。
 
 
 <span class='anchor' id='education'></span>
-# 📖 Educations
+# 📖 教育经历
 - *2024.11 - 2025.11*, <img src='images/oslo.png' style="width: 1em;"> 奥斯陆大学SIRIUS研究中心 联合培养博士生(导师: Arild Waaler教授、Dimitris Kiritsis教授)
 - *2020.06 - now*, <img src='images/bit.png' style="width: 1em;"> 北京理工大学机械与车辆学院 机械工程专业 博士研究生(导师: 王国新教授)
 - *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> 北京理工大学机械与车辆学院 工业工程专业 学士
