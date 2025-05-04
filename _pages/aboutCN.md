@@ -32,10 +32,10 @@ redirect_from:
 
 
 研究方向：**面向基于模型系统工程（Model-based Systems Engineering，MBSE）的认知数字主线（Cognitive Digital Thread， CDT）**
-- 认知数字主线概念及框架
+- 认知数字主线概念与理论框架
 - 认知数字主线本体设计/形式化
 - 认知数字主线工具链设计
-- 认知数字主线工程应用
+- 认知数字主线工程实践应用
 
 English version see [here](https://wushouxuan.github.io)。
 
