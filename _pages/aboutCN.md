@@ -53,11 +53,11 @@ English version see [here](https://wushouxuan.github.io)。
 
 -  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitris Kiritsis. [Design ontology for cognitive thread supporting traceability management in model-based systems engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 15.7, Top journal)**
 -  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 8, Top journal)** 
+- **(已录用)** **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. Cognitive digital thread tool-chain for model versioning in model-based systems engineering[J]. _Advanced Engineering Informatics_.**(SCI, _IF_: 8, Top journal)**
 - **(已录用)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,鲁金直,阎艳,龚逸辉,张浩轩,张臻[J]. _机械工程学报_, 2025.**(EI检索，重要期刊）**.
 - 张浩轩,王国新,梁赞,**吴绶玄**,鲁金直,阎艳,袁永吉.[面向MBSE的起落架系统模型集成技术](http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html)[J/OL], _图学学报_.,1-13[2025-02-15].
 - 兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新.[面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT)[J]. _系统工程学报_,2023,38(03):289-303.
 - 鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰.[基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _系统工程学报_,2023,38(02):146-160.
-- **(二审)** Cognitive digital thread tool-chain for model versioning in model-based systems engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
 - **(二审)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,龚逸辉,董梦如,张浩轩,乔佳兴,黄建宇. 
 - **(二审)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong, Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
 - **(一审)** 面向空间智能的基于模型系统工程方法, 鲁金直,王国新,唐锡晋,田凌,王坚,温跃杰,唐俊杰,唐剑,张旸旸,兰小平,刘奇,李俊霖,陈晋砾,马君达,**吴绶玄**,胡晓度.

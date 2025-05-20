@@ -33,7 +33,8 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 中文版本请见[这里](https://wushouxuan.github.io/CN)。
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
-- *2025.03*: &nbsp;🎉🎉 The journal paper "Digital Thread In Engineering: Concept, State of Art, and Enabling Framework" is accepted by the _Advanced Engineering Informatics_.
+- *2025.05*: &nbsp;🎉🎉 The journal paper "Cognitive digital thread tool-chain for model versioning in model-based systems engineering" is accepted by the _Advanced Engineering Informatics_.
+- *2025.03*: &nbsp;🎉🎉 The journal paper "Digital thread in engineering: Concept, state of art, and enabling framework" is accepted by the _Advanced Engineering Informatics_.
 - *2025.01*: &nbsp;🎉🎉 The journal paper "Domain-Specific-Modeling-based Multi-Architecture Design Method for Landing Gear System" has been accepted by the _Journal of Mechanical Engineering_.
 - *2024.12*: &nbsp;🎉🎉 Our journal paper is accepted by _Journal of Graphics_. Congrats to Haoxuan!
 - *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. 
@@ -51,17 +52,17 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 ## Journal Paper 
 
 -  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitris Kiritsis. [Design ontology for cognitive thread supporting traceability management in model-based systems engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 15.7, Top journal)**
--  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 8, Top journal)** 
-- **(Accept, To be published)**  Multi-architecture design method for landing gear system based on domain specific modeling, **Shouxuan Wu**, Guoxin Wang, Zan Liang, Tao Zhang, Zhenqiang Qi, Jinzhi Lu, Yan Yan, Yihui Gong, Haoxuan Zhang, Zhen Zhang[J]. _Journal of Mechanical Engineering_, 2025.**(EI, Top journal)**.
+-  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 8, Top journal)**
+- **(Accept, To be published)** **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. Cognitive digital thread tool-chain for model versioning in model-based systems engineering[J]. _Advanced Engineering Informatics_.**(SCI, _IF_: 8, Top journal)**
+- **(Accept, To be published)**  **Shouxuan Wu**, Guoxin Wang, Zan Liang, Tao Zhang, Zhenqiang Qi, Jinzhi Lu, Yan Yan, Yihui Gong, Haoxuan Zhang, Zhen Zhang. Multi-architecture design method for landing gear system based on domain specific modeling[J]. _Journal of Mechanical Engineering_, 2025.**(EI, Top journal)**.
 - Haoxuan Wang, Guoxin Wang, Zan Liang, **Shouxuan Wu**, Jinzhi Lu, Yan Yan, and Yongji Yuan. [Model integration technology for landing gear system based on MBSE](http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html)[J/OL]. _Journal of Graphics_,1-13[2025-02-15].
 - Xiaoping Lan, Zhiqiang Yao, **Shouxuan Wu**, Guoxin Wang, Jianxin Yang. [Traceability Management Approach for Complex System Development based on MBSE](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT) [J]. _Journal of System Engineering_,2023,38(03): 289-303.
 - Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen.[System Engineering Modeling Methodology based on Multi-architectural Modeling Language](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _Journal of System Engineering_, 2023,38(02): 146-160.
-- **(Ongoing/Under Review)** Cognitive digital thread tool-chain for model versioning in model-based systems engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, and Mengru Dong.
 - **(Ongoing/Under Review)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,龚逸辉,董梦如,张浩轩,乔佳兴,黄建宇. 
 - **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong, Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
 - **(Ongoing/Under Review)** 面向空间智能的基于模型系统工程方法, 鲁金直,王国新,唐锡晋,田凌,王坚,温跃杰,唐俊杰,唐剑,张旸旸,兰小平,刘奇,李俊霖,陈晋砾,马君达,**吴绶玄**,胡晓度.
 - **(Ongoing)** Cognitive digital thread tool-chain for model federation in model-based systems engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Mengru Dong, Dimitris Kiritsis.
-- **(Ongoing)** Evolving system engineering for facility assets: the modeling language perspective. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Dimitris Kiritsis, Arild Waaler.
+- **(Ongoing)** A model-based systems engineering framework for integrated asset information modeling and simulation. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Chao Yang, Dimitris Kiritsis, Arild Waaler.
 - **(Ongoing)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework. Mengru Dong, Guoxin Wang, Jinzhi Lu, Junda Ma, **Shouxuan Wu**, Yihui Gong, Yan Yan.
 
 
