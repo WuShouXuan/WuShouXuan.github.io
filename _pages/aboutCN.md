@@ -20,7 +20,7 @@ redirect_from:
 # 个人介绍
 
 北京理工大学机械工程博士研究生，挪威奥斯陆大学[SIRIUS研究中心](https://sirius-labs.no/)联合培养博士生（2024-2025）。
-- 发表学术论文13篇（其中以第一作者身份发表领域顶级SCI/EI论文5篇，累计影响因子超30）<a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>；
+- 发表学术论文13篇（其中以第一作者身份发表领域顶级SCI/EI论文5篇，累计影响因子超30）；
 - 授权/受理国家发明专利17项；
 - 担任J IND INF INTEGR等中科院Top期刊审稿人；
 - 国家留学基金委奖学金获得者（2024）；
@@ -55,15 +55,15 @@ English version see [here](https://wushouxuan.github.io)。
 -  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 8, Top journal)** 
 - **(已录用)** **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. Cognitive digital thread tool-chain for model versioning in model-based systems engineering[J]. _Advanced Engineering Informatics_.**(SCI, _IF_: 8, Top journal)**
 - **(已录用)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,鲁金直,阎艳,龚逸辉,张浩轩,张臻[J]. _机械工程学报_, 2025.**(EI检索，重要期刊）**.
+- **(已录用)** 鲁金直,王国新,唐锡晋,唐俊杰,温跃杰,唐剑,张旸旸,兰小平,刘奇,李俊霖,马君达,**吴绶玄**,胡晓度. 面向空间智能的基于模型系统工程方法[J]. _系统工程与电子技术_, 2025.**(EI检索）** 
 - 张浩轩,王国新,梁赞,**吴绶玄**,鲁金直,阎艳,袁永吉.[面向MBSE的起落架系统模型集成技术](http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html)[J/OL], _图学学报_.,1-13[2025-02-15].
 - 兰小平, 姚志强, **吴绶玄**, 王国新, 杨建新.[面向 MBSE 的复杂系统研发模型追溯管理方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT)[J]. _系统工程学报_,2023,38(03):289-303.
 - 鲁金直,王国新,阎艳,冯雷,张旸旸,唐锡晋,唐剑,张会生,王坚,郑晓晨,马君达,**吴绶玄**,陈金伟,温跃杰.[基于多架构建模语言的系统工程建模方法](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _系统工程学报_,2023,38(02):146-160.
 - **(二审)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景, **吴绶玄**,王国新,鲁金直,阎艳,龚逸辉,董梦如,张浩轩,乔佳兴,黄建宇. 
 - **(二审)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. Mengru Dong, Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, and Junda Ma.
-- **(一审)** 面向空间智能的基于模型系统工程方法, 鲁金直,王国新,唐锡晋,田凌,王坚,温跃杰,唐俊杰,唐剑,张旸旸,兰小平,刘奇,李俊霖,陈晋砾,马君达,**吴绶玄**,胡晓度.
-- **(进行中)** Cognitive digital thread tool-chain for model federation in model-based systems engineering. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Mengru Dong, Dimitris Kiritsis.
-- **(进行中)** Evolving system engineering for facility assets: the modeling language perspective. **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Dimitris Kiritsis, Arild Waaler.
-- **(进行中)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework. Mengru Dong, Guoxin Wang, Jinzhi Lu, Junda Ma, **Shouxuan Wu**, Yihui Gong, Yan Yan.
+- **(进行中)** Cognitive digital thread tool-chain for model federation in model-based systems engineering.
+- **(进行中)** Evolving system engineering for facility assets: the modeling language perspective. 
+- **(进行中)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework. 
 
 
 ## 会议论文
