@@ -20,7 +20,9 @@ redirect_from:
 # About Me
 
 I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
-I am the main contributor of the [KARMA](https://github.com/jinzhiBUAA/KARMA-language-specification) language. Besides, I severed as a reviewer of _Journal of Industrial Information Integration_.
+Besides, I severed as a reviewer of _Journal of Industrial Information Integration_.
+
+
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
 - Concept & Framework of CDT 
@@ -68,6 +70,7 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 
 ## Conference Paper
 - **(Accept, To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, **Shouxuan Wu**. _2024 15th Complex Systems Design & Management (CSD&M) conference_
+- **(Ongoing)** Cognitive digital thread for intelligent traceability management in model-based systems engineering.
 - [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078),Rui Chen; Guoxin Wang; **Shouxuan Wu**; Jinzhi Lu; Yan Yan , Dimitris Kiritsis, _2023 IEEE International Systems Conference (SysCon)_
 - [Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025](https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959),Jinzhi Lu, Guoxin Wang, Yan Yan, David Cameron, Feng Lei, Yangyang Zhang, Xijin Tang, Jian Wang, Junjie Tang, Jian Tang, Huisheng Zhang, Michel Reniers, Martin Törngren, Junda Ma, Yves Keraron, **Shouxuan Wu**, Dimitris Kiritsis, _INCOSE International Symposium 2022_
 - [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , _World Conference on Information Systems and Technologies 2021_
