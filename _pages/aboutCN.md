@@ -52,7 +52,7 @@ English version see [here](https://wushouxuan.github.io)。
 
 -  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitris Kiritsis. [Design ontology for cognitive thread supporting traceability management in model-based systems engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 15.7, Top journal)**
 -  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 8, Top journal)** 
-- **(已录用)** **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. Cognitive digital thread tool-chain for model versioning in model-based systems engineering[J]. _Advanced Engineering Informatics_.**(SCI, _IF_: 8, Top journal)**
+-  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. [Cognitive digital thread tool-chain for model versioning in model-based systems engineering](https://www.sciencedirect.com/science/article/pii/S1474034625003830)[J]. _Advanced Engineering Informatics_.**(SCI, _IF_: 8, Top journal)**
 - **(已录用)** 基于特定域建模的起落架系统多架构设计方法, **吴绶玄**,王国新,梁赞,张涛,祁振强,鲁金直,阎艳,龚逸辉,张浩轩,张臻[J]. _机械工程学报_, 2025.**(EI检索，重要期刊）**.
 - **(已录用)** 鲁金直,王国新,唐锡晋,唐俊杰,温跃杰,唐剑,张旸旸,兰小平,刘奇,李俊霖,马君达,**吴绶玄**,胡晓度. 面向空间智能的基于模型系统工程方法[J]. _系统工程与电子技术_, 2025.**(EI检索）** 
 - 张浩轩,王国新,梁赞,**吴绶玄**,鲁金直,阎艳,袁永吉.[面向MBSE的起落架系统模型集成技术](http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html)[J/OL], _图学学报_.,1-13[2025-02-15].
