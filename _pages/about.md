@@ -30,9 +30,9 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - Service-oriented tool-chain design for CDT
 - Scenarios of CDT in MBSE development process
 
-My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+[//]: # (My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.)
 
-中文版本请见[这里](https://wushouxuan.github.io/CN)。
+
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
 - *2025.05*: &nbsp;🎉🎉 The journal paper "Cognitive digital thread tool-chain for model versioning in model-based systems engineering" is accepted by the _Advanced Engineering Informatics_.
@@ -93,6 +93,8 @@ My google scholar links: <a href='https://scholar.google.com/citations?user=linM
 - _Journal of Industrial Information Integration_
 
 <span class='anchor' id='projects'></span>
+
+[中文版](https://wushouxuan.github.io/CN)
 
 [//]: # (# 🔨 Project  )
 
