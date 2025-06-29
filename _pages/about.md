@@ -19,10 +19,9 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student majoring in Mechanical Engineering at Beijing Institute of Technology (BIT). I am also a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025), and members of Chinese Association of Mechanical Engineering and System Engineering Society of China.
-Besides, I severed as a reviewer of _Journal of Industrial Information Integration_.
-
-
+I am currently a Ph.D. student in Mechanical Engineering at Beijing Institute of Technology (BIT) and a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025).
+So far, I have published over 13 papers on journals and conferences, including _Journal of Industrial Information Integration_ and _Advanced Engineering Informatics_, and hold over 17 granted/accepted patents.
+I sever as a reviewer of _Journal of Industrial Information Integration_. Besides, I am also the member of Chinese Association of Mechanical Engineering and System Engineering Society of China.
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
 - Concept & Framework of CDT 
@@ -62,15 +61,16 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - Xiaoping Lan, Zhiqiang Yao, **Shouxuan Wu**, Guoxin Wang, Jianxin Yang. [Traceability Management Approach for Complex System Development based on MBSE](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT) [J]. _Journal of System Engineering_,2023,38(03): 289-303.
 - Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen.[System Engineering Modeling Methodology based on Multi-architectural Modeling Language](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _Journal of System Engineering_, 2023,38(02): 146-160.
 - **(Ongoing/Under Review)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景.
-- **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering. 
+- **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering.
+- **(Ongoing/Under Review)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework.
 - **(Ongoing)** Cognitive digital thread tool-chain for model federation in model-based systems engineering.
 - **(Ongoing)** A model-based systems engineering framework for integrated asset information modeling and simulation.
-- **(Ongoing)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework.
+
 
 
 ## Conference Paper
 - **(Accept, To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, **Shouxuan Wu**. _2024 15th Complex Systems Design & Management (CSD&M) conference_
-- **(Ongoing)** Cognitive digital thread for intelligent traceability management in model-based systems engineering.
+- **(Ongoing/Under Review)** Cognitive digital thread for intelligent traceability establishment in model-based systems engineering.
 - [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078),Rui Chen; Guoxin Wang; **Shouxuan Wu**; Jinzhi Lu; Yan Yan , Dimitris Kiritsis, _2023 IEEE International Systems Conference (SysCon)_
 - [Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025](https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959),Jinzhi Lu, Guoxin Wang, Yan Yan, David Cameron, Feng Lei, Yangyang Zhang, Xijin Tang, Jian Wang, Junjie Tang, Jian Tang, Huisheng Zhang, Michel Reniers, Martin Törngren, Junda Ma, Yves Keraron, **Shouxuan Wu**, Dimitris Kiritsis, _INCOSE International Symposium 2022_
 - [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , _World Conference on Information Systems and Technologies 2021_
@@ -94,7 +94,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='projects'></span>
 
-[中文版](https://wushouxuan.github.io/CN)
+[//]: # ([中文版]&#40;https://wushouxuan.github.io/CN&#41;)
 
 [//]: # (# 🔨 Project  )
 
