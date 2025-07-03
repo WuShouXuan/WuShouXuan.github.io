@@ -34,6 +34,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
+- *2025.07*: &nbsp;🎉🎉 Our journal paper is accepted by _Journal of Engineering Design_. Congrats to Mengru!
 - *2025.05*: &nbsp;🎉🎉 The journal paper "Cognitive digital thread tool-chain for model versioning in model-based systems engineering" is accepted by the _Advanced Engineering Informatics_.
 - *2025.03*: &nbsp;🎉🎉 The journal paper "Digital thread in engineering: Concept, state of art, and enabling framework" is accepted by the _Advanced Engineering Informatics_.
 - *2025.01*: &nbsp;🎉🎉 The journal paper "Domain-Specific-Modeling-based Multi-Architecture Design Method for Landing Gear System" has been accepted by the _Journal of Mechanical Engineering_.
@@ -52,18 +53,18 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 ## Journal Paper 
 
--  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitris Kiritsis. [Design ontology for cognitive thread supporting traceability management in model-based systems engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 15.7, Top journal)**
--  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 9.9, Top journal)**
--  **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. [Cognitive digital thread tool-chain for model versioning in model-based systems engineering](https://www.sciencedirect.com/science/article/pii/S1474034625003830)[J]. _Advanced Engineering Informatics_.**(SCI, _IF_: 9.9, Top journal)**
+- **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitris Kiritsis. [Design ontology for cognitive thread supporting traceability management in model-based systems engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 15.7, Top journal)**
+- **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 9.9, Top journal)**
+- **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. [Cognitive digital thread tool-chain for model versioning in model-based systems engineering](https://www.sciencedirect.com/science/article/pii/S1474034625003830)[J]. _Advanced Engineering Informatics_.**(SCI, _IF_: 9.9, Top journal)**
+- **(Accept, To be published)** Mengru Dong, Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, Junda Ma. Ontology formalism and semantic rules supporting traceability management in model-based systems engineering[J]. _Journal of Engineering Design_, 2025.**(SCI, _IF_: 2.5)**.
 - **(Accept, To be published)**  **Shouxuan Wu**, Guoxin Wang, Zan Liang, Tao Zhang, Zhenqiang Qi, Jinzhi Lu, Yan Yan, Yihui Gong, Haoxuan Zhang, Zhen Zhang. Multi-architecture design method for landing gear system based on domain specific modeling[J]. _Journal of Mechanical Engineering_, 2025.**(EI, Top journal)**.
 - **(Accept, To be published)**  Jinzhi Lu, Guoxin Wang, Xijin Tang, Junjie Tang, Yuejie Wen, Jian Tang, Yangyang Zhang, Xiaoping Lan, Qi Liu, Junlin Li, Junda Ma, **Shouxuan Wu**, Xiaodu Hu. A model-based systems engineering approach for spatial intelligence. [J]. _System Engineering and Electronics_, 2025.**(EI journal)**.
 - Haoxuan Wang, Guoxin Wang, Zan Liang, **Shouxuan Wu**, Jinzhi Lu, Yan Yan, and Yongji Yuan. [Model integration technology for landing gear system based on MBSE](http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html)[J/OL]. _Journal of Graphics_,1-13[2025-02-15].
 - Xiaoping Lan, Zhiqiang Yao, **Shouxuan Wu**, Guoxin Wang, Jianxin Yang. [Traceability Management Approach for Complex System Development based on MBSE](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT) [J]. _Journal of System Engineering_,2023,38(03): 289-303.
 - Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen.[System Engineering Modeling Methodology based on Multi-architectural Modeling Language](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _Journal of System Engineering_, 2023,38(02): 146-160.
 - **(Ongoing/Under Review)** 面向基于模型的系统工程的认知数字主线：参考架构、使能技术与典型场景.
-- **(Ongoing/Under Review)** Ontology Formalism and Semantic Rules Supporting Traceability Management in Model-based Systems Engineering.
 - **(Ongoing/Under Review)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework.
-- **(Ongoing)** Cognitive digital thread tool-chain for model federation in model-based systems engineering.
+- **(Ongoing)** Cognitive digital thread tool-chain for model federation in model-based systems engineering. 
 - **(Ongoing)** A model-based systems engineering framework for integrated asset information modeling and simulation.
 
 
