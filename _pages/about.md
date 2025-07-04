@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 
 I am currently a Ph.D. student in Mechanical Engineering at Beijing Institute of Technology (BIT) and a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025).
-So far, I have published over 13 papers on journals and conferences, including _Journal of Industrial Information Integration_ and _Advanced Engineering Informatics_, and hold over 17 granted/accepted patents.
+I have published over 10 papers on journals and conferences, including _Journal of Industrial Information Integration_ and _Advanced Engineering Informatics_, and hold over 15 granted/accepted patents.
 I sever as a reviewer of _Journal of Industrial Information Integration_. Besides, I am also the member of Chinese Association of Mechanical Engineering and System Engineering Society of China.
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
