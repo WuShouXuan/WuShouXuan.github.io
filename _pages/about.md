@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a Ph.D. student in Mechanical Engineering at Beijing Institute of Technology (BIT) and a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025).
 I have published over 10 papers on journals and conferences, and hold over 15 granted/accepted patents.
-I sever as a reviewer of _Journal of Industrial Information Integration_. Besides, I am also the member of Chinese Association of Mechanical Engineering and System Engineering Society of China.
+I sever as a reviewer of _Journal of Industrial Information Integration_. I am also the member of Chinese Association of Mechanical Engineering and System Engineering Society of China.
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
 - Concept & Framework of CDT 
@@ -55,7 +55,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 - **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Zhenchao Hu, Yan Yan, and Dimitris Kiritsis. [Design ontology for cognitive thread supporting traceability management in model-based systems engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 15.7, Top journal)**
 - **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Yihui Gong, Mengru Dong, and Dimitris Kiritsis. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 9.9, Top journal)**
-- **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. [Cognitive digital thread tool-chain for model versioning in model-based systems engineering](https://www.sciencedirect.com/science/article/pii/S1474034625003830)[J]. _Advanced Engineering Informatics_.**(SCI, _IF_: 9.9, Top journal)**
+- **Shouxuan Wu**, Guoxin Wang, Jinzhi Lu, Jianyu Huang, Jiaxing Qiao, Yan Yan, and Dimitris Kiritsis. [Cognitive digital thread tool-chain for model versioning in model-based systems engineering](https://www.sciencedirect.com/science/article/pii/S1474034625003830)[J]. _Advanced Engineering Informatics_, 2025, 67: 103490.**(SCI, _IF_: 9.9, Top journal)**
 - **(Accept, To be published)** Mengru Dong, Guoxin Wang, Jinzhi Lu, **Shouxuan Wu**, Junda Ma. Ontology formalism and semantic rules supporting traceability management in model-based systems engineering[J]. _Journal of Engineering Design_, 2025.**(SCI, _IF_: 2.5)**.
 - **Shouxuan Wu**, Guoxin Wang, Zan Liang, Tao Zhang, Zhenqiang Qi, Jinzhi Lu, Yan Yan, Yihui Gong, Haoxuan Zhang, Zhen Zhang. [Multi-architecture design method for landing gear system based on domain specific modeling](https://kns.cnki.net/kcms/detail/11.2187.TH.20250704.1109.004.html)[J]. _Journal of Mechanical Engineering_,1-16[2025-07-04].http://kns.cnki.net/kcms/detail/11.2187.TH.20250704.1109.004.html. **(EI, Top journal)**.
 - **(Accept, To be published)**  Jinzhi Lu, Guoxin Wang, Xijin Tang, Junjie Tang, Yuejie Wen, Jian Tang, Yangyang Zhang, Xiaoping Lan, Qi Liu, Junlin Li, Junda Ma, **Shouxuan Wu**, Xiaodu Hu. A model-based systems engineering approach for spatial intelligence. [J]. _System Engineering and Electronics_, 2025.**(EI journal)**.
