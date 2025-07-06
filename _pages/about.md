@@ -20,8 +20,15 @@ redirect_from:
 # About Me
 
 I am currently a Ph.D. student in Mechanical Engineering at Beijing Institute of Technology (BIT) and a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025).
-I have published over 10 papers on journals and conferences, and hold over 15 granted/accepted patents.
-I sever as a reviewer of _Journal of Industrial Information Integration_. I am also the member of Chinese Association of Mechanical Engineering and System Engineering Society of China.
+
+[//]: # (- I have published over 10 papers on journals and conferences, and hold over 15 granted/accepted patents.)
+I sever as the:
+- INCOSE ASEP
+- Reviewer of _Journal of Industrial Information Integration_
+
+[//]: # (- Member of Chinese Association of Mechanical Engineering)
+[//]: # (- Member of System Engineering Society of China)
+
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
 - Concept & Framework of CDT 
@@ -34,6 +41,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
+- *2025.07*: &nbsp;🎉🎉 I am honored to be recognized as an International Council on Systems Engineering (INCOSE) Associate Systems Engineering Professional (ASEP).
 - *2025.07*: &nbsp;🎉🎉 Our journal paper is accepted by _Journal of Engineering Design_. Congrats to Mengru!
 - *2025.05*: &nbsp;🎉🎉 The journal paper "Cognitive digital thread tool-chain for model versioning in model-based systems engineering" is accepted by the _Advanced Engineering Informatics_.
 - *2025.03*: &nbsp;🎉🎉 The journal paper "Digital thread in engineering: Concept, state of art, and enabling framework" is accepted by the _Advanced Engineering Informatics_.
