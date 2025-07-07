@@ -23,7 +23,7 @@ I am currently a Ph.D. student in Mechanical Engineering at Beijing Institute of
 
 [//]: # (- I have published over 10 papers on journals and conferences, and hold over 15 granted/accepted patents.)
 I sever as the:
-- INCOSE ASEP
+- INCOSE ASEP (No.300919)
 - Reviewer of _Journal of Industrial Information Integration_
 
 [//]: # (- Member of Chinese Association of Mechanical Engineering)
