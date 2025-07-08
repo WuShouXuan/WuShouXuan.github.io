@@ -26,8 +26,7 @@ I sever as the:
 - INCOSE ASEP
 - Reviewer of _Journal of Industrial Information Integration_
 
-[//]: # (- Member of Chinese Association of Mechanical Engineering)
-[//]: # (- Member of System Engineering Society of China)
+
 
 
 My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
@@ -100,6 +99,11 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 # 💼 Service
 ## Journal Reviewer
 - _Journal of Industrial Information Integration_
+
+## Scientific Societies Role
+- INCOSE Associate Systems Engineering Professional (ASEP)
+- Member of Chinese Association of Mechanical Engineering
+- Member of System Engineering Society of China
 
 <span class='anchor' id='projects'></span>
 
