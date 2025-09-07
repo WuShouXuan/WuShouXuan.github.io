@@ -73,9 +73,9 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - Xiaoping Lan, Zhiqiang Yao, **Shouxuan Wu**, Guoxin Wang, Jianxin Yang. [Traceability Management Approach for Complex System Development based on MBSE](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT) [J]. _Journal of System Engineering_,2023,38(03): 289-303.(In Chinese)
 - Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen.[System Engineering Modeling Methodology based on Multi-architectural Modeling Language](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _Journal of System Engineering_, 2023,38(02): 146-160.(In Chinese)
 - **(Ongoing/Under Review)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework.
-- **(Ongoing)** Cognitive digital thread tool-chain for model federation in model-based systems engineering. 
-- **(Ongoing)** A model-based systems engineering framework for integrated asset information modeling and simulation.
-
+- **(Ongoing/Under Review)** A model-based systems engineering framework for integrated asset information modeling and simulation.
+- **(Ongoing)** Cognitive digital thread tool-chain for model federation in model-based systems engineering.
+- **(Ongoing)** Ontology formalism for model versioning in a model-based systems engineering tool-chain.
 
 
 ## Conference Paper
