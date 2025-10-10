@@ -40,6 +40,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
+- *2025.10*: &nbsp;🎉🎉 I am honored to receive the China National Scholarship in 2025.
 - *2025.09*: &nbsp;🎉🎉 The journal paper "Cognitive digital thread for model-based systems engineering: Reference framework, enabling technologies, and typical scenarios" has been accepted by the _Computer Integrated Manufacturing System_.
 - *2025.08*: &nbsp;🎉🎉 Our new conference paper is accepted by _IEEE ISSE 2025_. Congrats to Jianyu!
 - *2025.07*: &nbsp;🎉🎉 I am honored to be recognized as an International Council on Systems Engineering (INCOSE) Associate Systems Engineering Professional (ASEP).
