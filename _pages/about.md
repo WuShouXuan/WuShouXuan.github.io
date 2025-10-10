@@ -90,6 +90,10 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='honors'></span>
 
+# 💐 Honors & Scholarship
+- China National Scholarship (2025)
+- Scholarship by China Scholarship Council (2024)
+
 
 <span class='anchor' id='presentation'></span>
 
