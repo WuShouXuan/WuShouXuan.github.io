@@ -95,6 +95,8 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - China National Scholarship (2025)
 - Scholarship by China Scholarship Council (2024)
 - Outstanding student of Beijing Institute of Technology (2024)
+- Champion of the 3rd Chinese "Sailing cup" MBSE competition (Team Leader) (2022)
+- Top-level Academic scholarship of Beijing Institute of Technology (2020,2025)
 
 
 
