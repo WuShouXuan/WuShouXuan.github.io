@@ -19,12 +19,11 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student in Mechanical Engineering at Beijing Institute of Technology (BIT) and a visiting scholar in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025).
+I am currently a Ph.D. student in Mechanical Engineering at Beijing Institute of Technology (BIT) and guest researcher in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025).
+I am also the INCOSE ASEP.
 
 [//]: # (- I have published over 10 papers on journals and conferences, and hold over 15 granted/accepted patents.)
-I sever as the:
-- INCOSE ASEP
-- Reviewer of _Journal of Industrial Information Integration_
+
 
 
 
