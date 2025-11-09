@@ -86,17 +86,18 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, _2021 16th International Conference of System of Systems Engineering (SoSE)_
 - **(Accept, To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, **Shouxuan Wu**. _2024 15th Complex Systems Design & Management (CSD&M) conference_
 - **(Ongoing)** Cognitive digital thread supporting agile reuse of document-based knowledge in model-based systems engineering. Jiaxing Qiao, Guoxin Wang*, **Shouxuan Wu***, Jinzhi Lu, Haoxuan Zhang, Jianyu Huang.
-- **(Ongoing)** A semantic model-based systems engineering approach supporting circular manufacturing of photovoltaics. 
-- 
+- **(Ongoing)** A semantic model-based systems engineering approach supporting circular manufacturing of photovoltaics.
+
 <span class='anchor' id='honors'></span>
 
 # 💐 Main Honors & Scholarship
 - National scholarship (Ministry of Education, China, 2025)
 - Scholarship by China Scholarship Council (Ministry of Education, China, 2024)
+- Champion of the 3rd Chinese "Sailing cup" MBSE competition (Team Leader) (SAST & COMAC SADRI, China, 2022)
 - Outstanding graduate model student (Beijing Institute of Technology, China, 2025)
 - Outstanding graduate student (Beijing Institute of Technology, China, 2024)
-- Champion of the 3rd Chinese "Sailing cup" MBSE competition (Team Leader) (2022)
 - Top-level graduate academic scholarship (Beijing Institute of Technology, China, 2020+2025)
+- Excellence award for dormitory 😉 (Beijing Institute of Technology, China, 2025)
 
 
 
