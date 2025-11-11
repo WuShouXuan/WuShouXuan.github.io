@@ -112,7 +112,8 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 # 💼 Service
 ## Journal Reviewer
-- _Journal of Industrial Information Integration_
+- _[Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration)_
+- _[Digital Engineering](https://www.sciencedirect.com/journal/digital-engineering)_
 
 ## Scientific Societies Role
 - [INCOSE Associate Systems Engineering Professional (ASEP) (No.11257)](https://www.credential.net/9aecf748-f872-4375-9e6b-8861348af485#acc.7XGzUOoW)
