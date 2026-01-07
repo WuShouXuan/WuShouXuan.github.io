@@ -123,6 +123,10 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - Member of Chinese Association of Mechanical Engineering
 - Member of System Engineering Society of China
 
+## Conference technical program committee/reviewer
+- [IEEE SysCon 2026](https://2026.ieeesyscon.org/)
+
+
 <span class='anchor' id='projects'></span>
 
 [//]: # ([中文版]&#40;https://wushouxuan.github.io/CN&#41;)
