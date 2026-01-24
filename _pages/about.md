@@ -39,6 +39,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
+- *2026.01*: &nbsp;🎉🎉 Our two new conference papers are accepted by _IEEE SysCon 2026_.
 - *2025.11*: &nbsp;🎉🎉 Our two new journal papers are accepted by _Systems Engineering and Electronics_.
 - *2025.10*: &nbsp;🎉🎉 I am honored to receive the China National Scholarship in 2025.
 - *2025.09*: &nbsp;🎉🎉 The journal paper "Cognitive digital thread for model-based systems engineering: Reference framework, enabling technologies, and typical scenarios" has been accepted by the _Computer Integrated Manufacturing System_.
@@ -87,8 +88,8 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , _World Conference on Information Systems and Technologies 2021_
 - [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, _2021 16th International Conference of System of Systems Engineering (SoSE)_
 - **(Accept, To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, **Shouxuan Wu**. _2024 15th Complex Systems Design & Management (CSD&M) conference_
-- **(Ongoing/Under Review)** Cognitive digital thread supporting agile reuse of document-based knowledge in model-based systems engineering. (Corresponding author)
-- **(Ongoing/Under Review)** A Formal Verification Approach for Measures of Effectiveness Based on Satisfiability Modulo Theories. (Corresponding author)
+- **(Accept, To be published)** Cognitive digital thread supporting agile reuse of document-based knowledge in model-based systems engineering. (Corresponding author)
+- **(Accept, To be published)** A Formal Verification Approach for Measures of Effectiveness Based on Satisfiability Modulo Theories. (Corresponding author)
 - **(Ongoing)** A semantic model-based systems engineering approach supporting circular manufacturing of photovoltaics.
 
 <span class='anchor' id='honors'></span>
