@@ -82,7 +82,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 
 ## Conference Paper
-- **(Accept)** Cognitive digital thread for intelligent traceability establishment in model-based systems engineering. Jianyu Huang, Guoxin Wang*, **Shouxuan Wu***, Jinzhi Lu, Haoxuan Zhang, Jiaxing Qiao. _2025 IEEE International Symposium on Systems Engineering (ISSE)_
+- [Cognitive digital thread for intelligent traceability establishment in model-based systems engineering](https://ieeexplore.ieee.org/document/11370120). Jianyu Huang, Guoxin Wang*, **Shouxuan Wu***, Jinzhi Lu, Haoxuan Zhang, Jiaxing Qiao. _2025 IEEE International Symposium on Systems Engineering (ISSE)_
 - [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078),Rui Chen; Guoxin Wang; **Shouxuan Wu**; Jinzhi Lu; Yan Yan , Dimitris Kiritsis, _2023 IEEE International Systems Conference (SysCon)_
 - [Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025](https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959),Jinzhi Lu, Guoxin Wang, Yan Yan, David Cameron, Feng Lei, Yangyang Zhang, Xijin Tang, Jian Wang, Junjie Tang, Jian Tang, Huisheng Zhang, Michel Reniers, Martin Törngren, Junda Ma, Yves Keraron, **Shouxuan Wu**, Dimitris Kiritsis, _INCOSE International Symposium 2022_
 - [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , _World Conference on Information Systems and Technologies 2021_
