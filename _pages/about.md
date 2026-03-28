@@ -124,6 +124,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - [INCOSE Associate Systems Engineering Professional (ASEP) (No.11257)](https://www.credential.net/9aecf748-f872-4375-9e6b-8861348af485#acc.7XGzUOoW)
 - Member of Chinese Association of Mechanical Engineering
 - Member of System Engineering Society of China
+- Member of China Graphics Society
 
 ## Conference technical program committee/reviewer
 - [IEEE SysCon 2026](https://2026.ieeesyscon.org/)
