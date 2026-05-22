@@ -39,6 +39,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
+- *2026.05*: &nbsp;🎉🎉 Finally, passed my Ph.D. defense.
 - *2026.01*: &nbsp;🎉🎉 Our two new conference papers are accepted by _IEEE SysCon 2026_.
 - *2025.11*: &nbsp;🎉🎉 Our two new journal papers are accepted by _Systems Engineering and Electronics_.
 - *2025.10*: &nbsp;🎉🎉 I am honored to receive the China National Scholarship in 2025.
@@ -55,9 +56,9 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='education'></span>
 # 📖 Educations
-- *2024.11 - 2025.11*, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Scholar. (Supervisor: Prof. Arild Waaler and Prof. Dimitris Kiritsis)
-- *2020.06 - now*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. Student. (Supervisor: Prof. Guoxin Wang)
-- *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Industrial Engineering. Bachelor Degree.
+- *2024.11 - 2025.11*, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Scholar. 
+- *2020.06 - 2026.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. 
+- *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Industrial Engineering. B.Eng.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
