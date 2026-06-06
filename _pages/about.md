@@ -39,6 +39,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 <span class='anchor' id='news'></span>
 # 🔥 News & Updates
+- *2026.06*: &nbsp;🎉🎉 Our new journal paper is accepted by _Advanced Engineering Informatics_. Congrats to Mengru!
 - *2026.05*: &nbsp;🎉🎉 Finally, passed my Ph.D. defense.
 - *2026.01*: &nbsp;🎉🎉 Our two new conference papers are accepted by _IEEE SysCon 2026_.
 - *2025.11*: &nbsp;🎉🎉 Our two new journal papers are accepted by _Systems Engineering and Electronics_.
@@ -46,7 +47,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - *2025.09*: &nbsp;🎉🎉 The journal paper "Cognitive digital thread for model-based systems engineering: Reference framework, enabling technologies, and typical scenarios" has been accepted by the _Computer Integrated Manufacturing System_.
 - *2025.08*: &nbsp;🎉🎉 Our new conference paper is accepted by _IEEE ISSE 2025_. Congrats to Jianyu!
 - *2025.07*: &nbsp;🎉🎉 I am honored to be recognized as an International Council on Systems Engineering (INCOSE) Associate Systems Engineering Professional (ASEP).
-- *2025.07*: &nbsp;🎉🎉 Our journal paper is accepted by _Journal of Engineering Design_. Congrats to Mengru!
+- *2025.07*: &nbsp;🎉🎉 Our new journal paper is accepted by _Journal of Engineering Design_. Congrats to Mengru!
 - *2025.05*: &nbsp;🎉🎉 The journal paper "Cognitive digital thread tool-chain for model versioning in model-based systems engineering" is accepted by the _Advanced Engineering Informatics_.
 - *2025.03*: &nbsp;🎉🎉 The journal paper "Digital thread in engineering: Concept, state of art, and enabling framework" is accepted by the _Advanced Engineering Informatics_.
 - *2025.01*: &nbsp;🎉🎉 The journal paper "Domain-Specific-Modeling-based Multi-Architecture Design Method for Landing Gear System" has been accepted by the _Journal of Mechanical Engineering_.
@@ -77,21 +78,21 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - Haoxuan Zhang, Guoxin Wang, Zan Liang, **Shouxuan Wu**, Jinzhi Lu, Yan Yan, and Yongji Yuan. [Model integration technology for landing gear system based on MBSE](http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html)[J/OL]. _Journal of Graphics_,1-13[2025-02-15]. (In Chinese)
 - Xiaoping Lan, Zhiqiang Yao, **Shouxuan Wu**, Guoxin Wang, Jianxin Yang. [Traceability Management Approach for Complex System Development based on MBSE](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT) [J]. _Journal of System Engineering_,2023,38(03): 289-303.(In Chinese)
 - Jinzhi Lu, Guoxin Wang, Yan Yan, Lei Feng, Yangyang Zhang, Xijin Tang, Jian Tang, Huisheng Zhang, Jian Wang, Xiaochen Zheng, Junda Ma, **Shouxuan Wu**, , Jinwei Chen, Yuejie Wen.[System Engineering Modeling Methodology based on Multi-architectural Modeling Language](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT)[J]. _Journal of System Engineering_, 2023,38(02): 146-160.(In Chinese)
-- **(Ongoing/Under Review)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework.
+- **(Accept, To be published)** Insights into Ontology in Model-Based Systems Engineering: State-of-the-art and Enabling Framework.
 - **(Ongoing/Under Review)** A model-based systems engineering framework for integrated asset information modeling and simulation.
 - **(Ongoing)** Cognitive digital thread tool-chain for model federation in model-based systems engineering.
 - **(Ongoing)** Ontology formalism for model versioning in a model-based systems engineering tool-chain.
 
 
 ## Conference Paper
-- [Cognitive digital thread for intelligent traceability establishment in model-based systems engineering](https://ieeexplore.ieee.org/document/11370120). Jianyu Huang, Guoxin Wang*, **Shouxuan Wu***, Jinzhi Lu, Haoxuan Zhang, Jiaxing Qiao. _2025 IEEE International Symposium on Systems Engineering (ISSE)_
-- [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078),Rui Chen; Guoxin Wang; **Shouxuan Wu**; Jinzhi Lu; Yan Yan , Dimitris Kiritsis, _2023 IEEE International Systems Conference (SysCon)_
-- [Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025](https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959),Jinzhi Lu, Guoxin Wang, Yan Yan, David Cameron, Feng Lei, Yangyang Zhang, Xijin Tang, Jian Wang, Junjie Tang, Jian Tang, Huisheng Zhang, Michel Reniers, Martin Törngren, Junda Ma, Yves Keraron, **Shouxuan Wu**, Dimitris Kiritsis, _INCOSE International Symposium 2022_
-- [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55),Pengfei Yang, Jinzhi Lu, Lei Feng, **Shouxuan Wu**, Guoxin Wang & Dimitris Kiritsis , _World Conference on Information Systems and Technologies 2021_
-- [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473),**Shouxuan Wu**; Jinzhi Lu; Zhenchao Hu; Pengfei Yang; Guoxin Wang; Dimitris Kiritsis, _2021 16th International Conference of System of Systems Engineering (SoSE)_
-- **(Accept, To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering, Jiawei Li, Guoxin Wang, Jinzhi Lu, Yan Yan, Hao Wang, **Shouxuan Wu**. _2024 15th Complex Systems Design & Management (CSD&M) conference_
-- **(Accept, To be published)** Cognitive digital thread supporting agile reuse of document-based knowledge in model-based systems engineering. (Corresponding author)
-- **(Accept, To be published)** A Formal Verification Approach for Measures of Effectiveness Based on Satisfiability Modulo Theories. (Corresponding author)
+- [Cognitive digital thread supporting agile reuse of document-based knowledge in model-based systems engineering](https://ieeexplore.ieee.org/abstract/document/11503597)._2026 IEEE International Systems Conference (SysCon)_ (Corresponding author)
+- [A Formal Verification Approach for Measures of Effectiveness Based on Satisfiability Modulo Theories](https://ieeexplore.ieee.org/abstract/document/11503555)._2026 IEEE International Systems Conference (SysCon)_ (Corresponding author)
+- [Cognitive digital thread for intelligent traceability establishment in model-based systems engineering](https://ieeexplore.ieee.org/document/11370120).  _2025 IEEE International Symposium on Systems Engineering (ISSE)_ (Corresponding author)
+- [A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering](https://ieeexplore.ieee.org/abstract/document/10131078). _2023 IEEE International Systems Conference (SysCon)_
+- [Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025](https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959), _INCOSE International Symposium 2022_
+- [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55), _World Conference on Information Systems and Technologies 2021_
+- [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473) _2021 16th International Conference of System of Systems Engineering (SoSE)_ (First author)
+- **(Accept, To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering. _2024 15th Complex Systems Design & Management (CSD&M) conference_
 - **(Ongoing)** A semantic model-based systems engineering approach supporting circular manufacturing of photovoltaics.
 
 <span class='anchor' id='honors'></span>
