@@ -56,7 +56,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. 
 - *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_.
 
-{% include news-list.html %}
+{% include new-list.html %}
 
 <span class='anchor' id='education'></span>
 # 📖 Educations
