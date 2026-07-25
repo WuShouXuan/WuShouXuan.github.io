@@ -67,12 +67,12 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 ## Journal Paper 
 
-- **Wu S**, Wang G, Lu J, et al. [Design ontology for cognitive thread supporting traceability management in model-based systems engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 15.7, Top journal)**
-- **Wu S**, Wang G, Lu J, et al. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 9.9, Top journal)**
-- **Wu S**, Wang G, Lu J, et al. [Cognitive digital thread tool-chain for model versioning in model-based systems engineering](https://www.sciencedirect.com/science/article/pii/S1474034625003830)[J]. _Advanced Engineering Informatics_, 2025, 67: 103490.**(SCI, _IF_: 9.9, Top journal)**
-- Yang C, Hu X, Wang Z, et al. [A domain knowledge-enhanced MBSE framework for developing knowledge-based inspection systems: A case study on overhead crane inspection](https://www.sciencedirect.com/science/article/pii/S0360835226001245)[J]. _Computers & Industrial Engineering_, 2026, 216: 111923.**(Corresponding author, SCI, _IF_: 6.5, Top journal)**
-- Dong M, Wang G, Lu J, et al. [Insights into ontology-based model-based systems engineering: state of the art and enabling framework](https://www.sciencedirect.com/science/article/pii/S1474034626006397)[J]. Advanced Engineering Informatics, 2026, 76: 104947.**(SCI, _IF_: 9.9, Top journal)**
-- Dong M, Wang G, Lu J, et al. [Ontology formalism and semantic rules supporting traceability management in model-based systems engineering](https://www.tandfonline.com/doi/citedby/10.1080/09544828.2025.2532291?scroll=top&needAccess=true)[J]. _Journal of Engineering Design_, 2025, 1–26.**(SCI, _IF_: 2.5)**.
+- **Wu S**, Wang G, Lu J, et al. [Design ontology for cognitive thread supporting traceability management in model-based systems engineering](https://www.sciencedirect.com/science/article/abs/pii/S2452414X24000633)[J]. _Journal of Industrial Information Integration_, 2024, 40: 100619.**(SCI, _IF_: 11.2, Top journal)**
+- **Wu S**, Wang G, Lu J, et al. [Digital thread in engineering: Concept, state of art, and enabling framework](https://www.sciencedirect.com/science/article/pii/S147403462500151X)[J]. _Advanced Engineering Informatics_, 2025, 65: 103258.**(SCI, _IF_: 11.5, Top journal)**
+- **Wu S**, Wang G, Lu J, et al. [Cognitive digital thread tool-chain for model versioning in model-based systems engineering](https://www.sciencedirect.com/science/article/pii/S1474034625003830)[J]. _Advanced Engineering Informatics_, 2025, 67: 103490.**(SCI, _IF_: 11.5, Top journal)**
+- Yang C, Hu X, Wang Z, et al. [A domain knowledge-enhanced MBSE framework for developing knowledge-based inspection systems: A case study on overhead crane inspection](https://www.sciencedirect.com/science/article/pii/S0360835226001245)[J]. _Computers & Industrial Engineering_, 2026, 216: 111923.**(Corresponding author, SCI, _IF_: 7.3, Top journal)**
+- Dong M, Wang G, Lu J, et al. [Insights into ontology-based model-based systems engineering: state of the art and enabling framework](https://www.sciencedirect.com/science/article/pii/S1474034626006397)[J]. Advanced Engineering Informatics, 2026, 76: 104947.**(SCI, _IF_: 11.5, Top journal)**
+- Dong M, Wang G, Lu J, et al. [Ontology formalism and semantic rules supporting traceability management in model-based systems engineering](https://www.tandfonline.com/doi/citedby/10.1080/09544828.2025.2532291?scroll=top&needAccess=true)[J]. _Journal of Engineering Design_, 2025, 1–26.**(SCI, _IF_: 4.1)**.
 - **Wu S**, Wang G, Liang Z, et al. [Multi-architecture design method for landing gear system based on domain specific modeling](https://doi.org/10.3901/JME.2025.19.273)[J]. _Journal of Mechanical Engineering_,2025,61(19):273-289. **(EI, Top journal)**.(In Chinese)
 - **Wu S**, Wang G, Lu J, et al. [Cognitive digital thread for model-based systems engineering: Reference framework, enabling technologies, and typical scenarios](https://doi.org/10.13196/j.cims.2025.0219)[J]. _Computer Integrated Manufacturing Systems_, 2026, 32(2):469-487. **(EI journal)**.(In Chinese)
 - Gong Y, Wang G, Yan Y, et al. [Review on architecture model quality in Model-based Systems Engineering: Concept, framework, technologies](https://link.cnki.net/urlid/11.2422.tn.20251128.1046.004). [J/OL]. _System Engineering and Electronics_, 1-16[2025-11-29]. **(EI journal)**.(In Chinese)
@@ -95,6 +95,8 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - [A Knowledge Management Approach Supporting Model-Based Systems Engineering](https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55), _World Conference on Information Systems and Technologies 2021_
 - [Cognitive Thread Supports System of Systems for Complex System Development](https://ieeexplore.ieee.org/document/9497473) _2021 16th International Conference of System of Systems Engineering (SoSE)_ (First author)
 - **(Accept, To be published)** KARMA Approach supporting Development Process Reconstruction in Model-based Systems Engineering. _2024 15th Complex Systems Design & Management (CSD&M) conference_
+- **(Ongoing)** Digital Thread Paper Analysis based on Word Cloud Visualization.
+- **(Ongoing)** Cognitive digital thread support design conflict resolution in model-based systems engineering.
 - **(Ongoing)** A semantic model-based systems engineering approach supporting circular manufacturing of photovoltaics.
 
 <span class='anchor' id='honors'></span>
@@ -126,7 +128,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - _[Aerospace Science and Technology](https://www.sciencedirect.com/journal/aerospace-science-and-technology)_
 - _[Array](https://www.sciencedirect.com/journal/array)_
 - _[Computer Standards & Interfaces](https://www.sciencedirect.com/journal/computer-standards-and-interfaces)_
-
+- _[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)_
 
 ## Scientific Societies Role
 - [INCOSE Associate Systems Engineering Professional (ASEP) (No.11257)](https://www.credential.net/9aecf748-f872-4375-9e6b-8861348af485#acc.7XGzUOoW)
