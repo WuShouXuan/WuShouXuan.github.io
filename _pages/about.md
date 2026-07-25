@@ -62,8 +62,7 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - *2020.06 - 2026.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D. 
 - *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Industrial Engineering. B.Eng.
 
-<span class='anchor' id='publications'></span>
-# 📝 Publications 
+
 
 
 

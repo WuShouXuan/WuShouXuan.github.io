@@ -1,6 +1,8 @@
 ---
+layout: default
 permalink: /publications/
 title: "Publications"
+excerpt: "Publications of Shouxuan Wu"
 author_profile: true
 ---
 
