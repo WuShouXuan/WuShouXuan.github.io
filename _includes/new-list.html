@@ -1,0 +1,40 @@
+<div
+        class="news-list"
+        role="region"
+        aria-label="News and updates"
+>
+    <div class="news-list__header" aria-hidden="true">
+        <span>Date</span>
+        <span>Event</span>
+    </div>
+
+    <ul
+            class="news-list__body"
+            tabindex="0"
+            aria-label="Scrollable news list"
+    >
+        {% for item in site.data.news %}
+        <li class="news-list__item">
+            <div class="news-list__date">
+                {{ item.date }}
+            </div>
+
+            <div class="news-list__event">
+                {% if item.tag %}
+                <span class="news-list__tag">
+              {{ item.tag }}
+            </span>
+                {% endif %}
+
+                {% if item.url %}
+                <a href="{{ item.url }}">
+                    {{ item.event }}
+                </a>
+                {% else %}
+                <span>{{ item.event }}</span>
+                {% endif %}
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

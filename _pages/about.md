@@ -56,6 +56,8 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 - *2024.07*: &nbsp;🎉🎉 Funded by the China Scholarship Council, I am about to visiting the SIRIUS Research Center at the University of Oslo in Norway for one year. 
 - *2024.04*: &nbsp;🎉🎉 The journal paper "Design Ontology for Cognitive Thread Supporting Traceability Management in Model-based Systems Engineering" is accepted by the _Journal of Industrial Information Integration_.
 
+{% include news-list.html %}
+
 <span class='anchor' id='education'></span>
 # 📖 Educations
 - *2024.11 - 2025.11*, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Scholar. 
@@ -66,48 +68,12 @@ My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Eng
 
 
 
-<span class='anchor' id='honors'></span>
-
-# 💐 Main Honors & Scholarship
-- National scholarship (Ministry of Education, China, 2025)
-- Scholarship by China Scholarship Council (Ministry of Education, China, 2024)
-- Champion of the 3rd Chinese "Sailing cup" MBSE competition (Team Leader) (SAST & COMAC SADRI, China, 2022)
-- Outstanding graduate model student (Beijing Institute of Technology, China, 2025)
-- Outstanding graduate student (Beijing Institute of Technology, China, 2024)
-- Top-level graduate academic scholarship (Beijing Institute of Technology, China, 2020+2025)
-- Excellence award for dormitory 😉 (Beijing Institute of Technology, China, 2025)
 
 
 
-<span class='anchor' id='presentation'></span>
-
-# 💬 Presentation
-- *2025.10*, "Cognitive digital thread for intelligent traceability establishment in model-based systems engineering" invited by IEEE ISSE 2025
-- *2023.03*, "基于多架构建模语言的系统工程建模方法" invited by in System Engineering Society of China  \| [\[video\]](https://www.bilibili.com/video/BV1Ph4y1M7HQ/?spm_id_from=333.999.0.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
-- *2021.06*, "Cognitive Thread Supports System of Systems for Complex System Development" invited by SoSE 2021  \| [\[video\]](https://www.bilibili.com/video/BV1jr4y1r7Gp/?spm_id_from=333.788.videocard.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
-
-<span class='anchor' id='service'></span>
-
-# 💼 Service
-## Journal Reviewer
-- _[Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration)_
-- _[Digital Engineering](https://www.sciencedirect.com/journal/digital-engineering)_
-- _[Aerospace Science and Technology](https://www.sciencedirect.com/journal/aerospace-science-and-technology)_
-- _[Array](https://www.sciencedirect.com/journal/array)_
-- _[Computer Standards & Interfaces](https://www.sciencedirect.com/journal/computer-standards-and-interfaces)_
-- _[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)_
-
-## Scientific Societies Role
-- [INCOSE Associate Systems Engineering Professional (ASEP) (No.11257)](https://www.credential.net/9aecf748-f872-4375-9e6b-8861348af485#acc.7XGzUOoW)
-- Member of Chinese Association of Mechanical Engineering
-- Member of System Engineering Society of China
-- Member of China Graphics Society
-
-## Conference technical program committee/reviewer
-- [IEEE SysCon 2026](https://2026.ieeesyscon.org/)
 
 
-<span class='anchor' id='projects'></span>
+
 
 [//]: # ([中文版]&#40;https://wushouxuan.github.io/CN&#41;)
 

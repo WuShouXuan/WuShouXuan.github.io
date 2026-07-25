@@ -1,28 +1,23 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "News & Updates"
-    url: "/#news"
 
-  - title: "Educations"
-    url: "/#education"
 
   - title: "Publications"
     url: "/publications/"
 
-  - title: "Patents"
-    url: "/#patents"
+
 
   - title: "Honors and Awards"
-    url: "/#honors"
+    url: "/honors/"
 
 
 
-  - title: "Presentations"
-    url: "/#presentation"
+  - title: "Talks"
+    url: "/talks/"
 
   - title: "Service"
-    url: "/#service"
+    url: "/services/"
 
