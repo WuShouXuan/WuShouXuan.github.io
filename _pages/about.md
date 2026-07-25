@@ -19,20 +19,16 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student in Mechanical Engineering at Beijing Institute of Technology (BIT) and guest researcher in the [SIRIUS research center](https://sirius-labs.no/) at the University of Oslo (2024-2025).
-I am also the INCOSE ASEP.
+
+I currently a researcher holding a Ph.D. in Mechanical Engineering from Beijing Institute of Technology (BIT) and currently work as a researcher
+From 2024 to 2025, I was a guest researcher at the [SIRIUS Research Centre](https://sirius-labs.no/) at the University of Oslo. 
+I am also an INCOSE-certified Associate Systems Engineering Professional (ASEP).
 
 [//]: # (- I have published over 10 papers on journals and conferences, and hold over 15 granted/accepted patents.)
 
-
-
-
-
-My research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
-- Concept & Framework of CDT 
-- Ontology Design / Formalization of CDT 
-- Service-oriented tool-chain design for CDT
-- Scenarios of CDT in MBSE development process
+My current research focuses on Cognitive Digital Thread (CDT) in Model-based Systems Engineering (MBSE), in particular with:
+- Concept/Framework/Formalization/Tool-chain-design of CDT 
+- MBSE methods for engineering systems design
 
 [//]: # (My google scholar links: <a href='https://scholar.google.com/citations?user=linMyIYAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FWuShouXuan%2FWuShouXuan.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.)
 
