@@ -1,15 +1,33 @@
 - type: journal
+  year: 2024
+  title: "Design ontology for cognitive thread supporting traceability management in model-based systems engineering"
+  authors: "Wu S, Wang G, Lu J, et al"
+  venue: "Journal of Industrial Information Integration"
+  details: "40: 100619"
+  url: "https://www.sciencedirect.com/science/article/pii/S0360835226001245"
+  image: "/images/publications/JIII2024Wu.png"
+  image_alt: "Test"
+  role: "Corresponding author"
+  tags:
+    - "SCI"
+    - "IF 7.3"
+    - "Top Journal"
+
+- type: journal
   year: 2026
   title: "A domain knowledge-enhanced MBSE framework for developing knowledge-based inspection systems: A case study on overhead crane inspection"
   authors: "Yang C, Hu X, Wang Z, et al."
   venue: "Computers & Industrial Engineering"
   details: "216: 111923"
   url: "https://www.sciencedirect.com/science/article/pii/S0360835226001245"
+  image: "/images/publications/JIII2024Wu.png"
+  image_alt: "Test"
   role: "Corresponding author"
   tags:
     - "SCI"
     - "IF 7.3"
     - "Top Journal"
+
 
 # Conference papers
 
@@ -19,6 +37,8 @@
   authors: "<strong>Wu S</strong>, et al."
   venue: "IEEE International Systems Conference (SysCon)"
   url: "https://ieeexplore.ieee.org/abstract/document/11503597"
+  image: "/images/publications/JIII2024Wu.png"
+  image_alt: "Test"
   role: "Corresponding author"
   tags:
     - "IEEE"
@@ -29,6 +49,8 @@
   authors: "Authors"
   venue: "IEEE International Systems Conference (SysCon)"
   url: "https://ieeexplore.ieee.org/abstract/document/11503555"
+  image: "/images/publications/JIII2024Wu.png"
+  image_alt: "Test"
   role: "Corresponding author"
   tags:
     - "IEEE"
@@ -39,6 +61,8 @@
   authors: "<strong>Wu S</strong>, et al."
   venue: "IEEE International Symposium on Systems Engineering (ISSE)"
   url: "https://ieeexplore.ieee.org/document/11370120"
+  image: "/images/publications/JIII2024Wu.png"
+  image_alt: "Test"
   role: "Corresponding author"
   tags:
     - "IEEE"
@@ -50,9 +74,13 @@
   title: "A model-based systems engineering framework for integrated asset information modeling and simulation"
   authors: "<strong>Wu S</strong>, et al."
   status: "Under Review"
+  image: "/images/publications/JIII2024Wu.png"
+  image_alt: "Test"
 
 - type: working
   year: 2026
   title: "Cognitive digital thread tool-chain for model federation in model-based systems engineering"
   authors: "<strong>Wu S</strong>, et al."
   status: "Ongoing"
+  image: "/images/publications/JIII2024Wu.png"
+  image_alt: "Test"

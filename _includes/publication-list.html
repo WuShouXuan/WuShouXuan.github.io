@@ -39,65 +39,106 @@
         <div class="pub-year__items">
             {% for item in year_group.items %}
             <article class="pub-card">
-                <div class="pub-card__content">
-                    <h3 class="pub-card__title">
+
+                <div class="pub-card__body">
+
+                    <!-- 左侧缩略图 -->
+                    <div class="pub-card__thumbnail">
+                        {% if item.image %}
                         {% if item.url %}
-                        <a href="{{ item.url }}">
-                            {{ item.title }}
+                        <a
+                                class="pub-card__thumbnail-link"
+                                href="{{ item.url }}"
+                                aria-label="Open paper: {{ item.title | escape }}"
+                        >
+                            <img
+                                    src="{{ item.image | relative_url }}"
+                                    alt="{{ item.image_alt | default: item.title | escape }}"
+                                    loading="lazy"
+                                    decoding="async"
+                            >
                         </a>
                         {% else %}
-                        {{ item.title }}
+                        <img
+                                src="{{ item.image | relative_url }}"
+                                alt="{{ item.image_alt | default: item.title | escape }}"
+                                loading="lazy"
+                                decoding="async"
+                        >
                         {% endif %}
-                    </h3>
-
-                    {% if item.authors %}
-                    <p class="pub-card__authors">
-                        {{ item.authors }}
-                    </p>
-                    {% endif %}
-
-                    {% if item.venue %}
-                    <p class="pub-card__venue">
-                  <span class="pub-card__venue-name">
-                    {{ item.venue }}
-                  </span>
-
-                        {% if item.details %}
-                        <span class="pub-card__details">
-                      {{ item.details }}
-                    </span>
-                        {% endif %}
-                    </p>
-                    {% endif %}
-
-                    {% if item.status %}
-                    <p class="pub-card__status">
-                        {{ item.status }}
-                    </p>
-                    {% endif %}
-
-                    {% if item.role or item.tags %}
-                    <div
-                            class="pub-card__tags"
-                            aria-label="Publication metadata"
-                    >
-                        {% if item.role %}
-                        <span class="pub-tag pub-tag--strong">
-                      {{ item.role }}
-                    </span>
-                        {% endif %}
-
-                        {% if item.tags %}
-                        {% for tag in item.tags %}
-                        <span class="pub-tag">
-                        {{ tag }}
-                      </span>
-                        {% endfor %}
+                        {% else %}
+                        <div
+                                class="pub-card__thumbnail-placeholder"
+                                aria-hidden="true"
+                        >
+                            <span>Publication</span>
+                        </div>
                         {% endif %}
                     </div>
-                    {% endif %}
+
+                    <!-- 中间论文信息 -->
+                    <div class="pub-card__content">
+                        <h3 class="pub-card__title">
+                            {% if item.url %}
+                            <a href="{{ item.url }}">
+                                {{ item.title }}
+                            </a>
+                            {% else %}
+                            {{ item.title }}
+                            {% endif %}
+                        </h3>
+
+                        {% if item.authors %}
+                        <p class="pub-card__authors">
+                            {{ item.authors }}
+                        </p>
+                        {% endif %}
+
+                        {% if item.venue %}
+                        <p class="pub-card__venue">
+                    <span class="pub-card__venue-name">
+                      {{ item.venue }}
+                    </span>
+
+                            {% if item.details %}
+                            <span class="pub-card__details">
+                        {{ item.details }}
+                      </span>
+                            {% endif %}
+                        </p>
+                        {% endif %}
+
+                        {% if item.status %}
+                        <p class="pub-card__status">
+                            {{ item.status }}
+                        </p>
+                        {% endif %}
+
+                        {% if item.role or item.tags %}
+                        <div
+                                class="pub-card__tags"
+                                aria-label="Publication metadata"
+                        >
+                            {% if item.role %}
+                            <span class="pub-tag pub-tag--strong">
+                        {{ item.role }}
+                      </span>
+                            {% endif %}
+
+                            {% if item.tags %}
+                            {% for tag in item.tags %}
+                            <span class="pub-tag">
+                          {{ tag }}
+                        </span>
+                            {% endfor %}
+                            {% endif %}
+                        </div>
+                        {% endif %}
+                    </div>
+
                 </div>
 
+                <!-- 右侧论文按钮 -->
                 {% if item.url %}
                 <div class="pub-card__action">
                     <a
@@ -110,6 +151,7 @@
                     </a>
                 </div>
                 {% endif %}
+
             </article>
             {% endfor %}
         </div>

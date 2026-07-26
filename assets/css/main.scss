@@ -604,8 +604,90 @@ h1:before,
     transform: translateY(-1px);
 }
 
-.publications-page .pub-card__content {
+/* --------------------------------------------------------------------------
+   Publication card body and thumbnail
+   -------------------------------------------------------------------------- */
+
+.publications-page .pub-card__body {
+    display: flex;
     flex: 1 1 auto;
+    align-items: flex-start;
+    gap: 1rem;
+    min-width: 0;
+}
+
+/*
+ * Desktop thumbnail:
+ * 4:3 ratio, fixed width, suitable for framework diagrams,
+ * graphical abstracts and screenshots.
+ */
+.publications-page .pub-card__thumbnail {
+    display: flex;
+    flex: 0 0 7.5rem;
+    align-items: center;
+    justify-content: center;
+    width: 7.5rem;
+    height: 5.625rem;
+    overflow: hidden;
+    background: #f3f6f9;
+    border: 1px solid #c8d4e0;
+    border-radius: 0.4rem;
+}
+
+.publications-page .pub-card__thumbnail-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+}
+
+.publications-page .pub-card__thumbnail img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0.2rem;
+    object-fit: contain;
+    background: #ffffff;
+    transition: transform 0.2s ease;
+}
+
+.publications-page .pub-card__thumbnail-link:hover img,
+.publications-page .pub-card__thumbnail-link:focus img {
+    transform: scale(1.035);
+}
+
+/*
+ * Placeholder shown when the YAML item has no image field.
+ */
+.publications-page .pub-card__thumbnail-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding: 0.5rem;
+    color: #6a7e91;
+    background:
+            linear-gradient(
+                            145deg,
+                            #f7f9fb 0%,
+                            #e6edf4 100%
+            );
+    font-family: $sans-serif;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    line-height: 1.3;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.publications-page .pub-card:hover .pub-card__thumbnail {
+    border-color: #9fb3c7;
+}
+
+.publications-page .pub-card__content {
+
     min-width: 0;
 }
 
@@ -770,6 +852,16 @@ h1:before,
         grid-template-columns: 4.4rem minmax(0, 1fr);
         gap: 0.8rem;
     }
+
+    .publications-page .pub-card__body {
+        gap: 0.8rem;
+    }
+
+    .publications-page .pub-card__thumbnail {
+        flex-basis: 6.5rem;
+        width: 6.5rem;
+        height: 4.875rem;
+    }
 }
 
 
@@ -856,6 +948,29 @@ h1:before,
         display: block;
         padding: 0.9rem;
         border-left-width: 3px;
+    }
+
+    .publications-page .pub-card__body {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.7rem;
+    }
+
+    .publications-page .pub-card__thumbnail {
+        flex: 0 0 5rem;
+        width: 5rem;
+        height: 3.75rem;
+        border-radius: 0.32rem;
+    }
+
+    .publications-page .pub-card__thumbnail img {
+        padding: 0.12rem;
+    }
+
+    .publications-page .pub-card__thumbnail-placeholder {
+        padding: 0.25rem;
+        font-size: 0.5rem;
+        letter-spacing: 0.04em;
     }
 
     .publications-page .pub-card__title {
