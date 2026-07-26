@@ -1,0 +1,58 @@
+- type: journal
+  year: 2026
+  title: "A domain knowledge-enhanced MBSE framework for developing knowledge-based inspection systems: A case study on overhead crane inspection"
+  authors: "Yang C, Hu X, Wang Z, et al."
+  venue: "Computers & Industrial Engineering"
+  details: "216: 111923"
+  url: "https://www.sciencedirect.com/science/article/pii/S0360835226001245"
+  role: "Corresponding author"
+  tags:
+    - "SCI"
+    - "IF 7.3"
+    - "Top Journal"
+
+# Conference papers
+
+- type: conference
+  year: 2026
+  title: "Cognitive digital thread supporting agile reuse of document-based knowledge in model-based systems engineering"
+  authors: "<strong>Wu S</strong>, et al."
+  venue: "IEEE International Systems Conference (SysCon)"
+  url: "https://ieeexplore.ieee.org/abstract/document/11503597"
+  role: "Corresponding author"
+  tags:
+    - "IEEE"
+
+- type: conference
+  year: 2026
+  title: "A Formal Verification Approach for Measures of Effectiveness Based on Satisfiability Modulo Theories"
+  authors: "Authors"
+  venue: "IEEE International Systems Conference (SysCon)"
+  url: "https://ieeexplore.ieee.org/abstract/document/11503555"
+  role: "Corresponding author"
+  tags:
+    - "IEEE"
+
+- type: conference
+  year: 2025
+  title: "Cognitive digital thread for intelligent traceability establishment in model-based systems engineering"
+  authors: "<strong>Wu S</strong>, et al."
+  venue: "IEEE International Symposium on Systems Engineering (ISSE)"
+  url: "https://ieeexplore.ieee.org/document/11370120"
+  role: "Corresponding author"
+  tags:
+    - "IEEE"
+
+# Working papers
+
+- type: working
+  year: 2026
+  title: "A model-based systems engineering framework for integrated asset information modeling and simulation"
+  authors: "<strong>Wu S</strong>, et al."
+  status: "Under Review"
+
+- type: working
+  year: 2026
+  title: "Cognitive digital thread tool-chain for model federation in model-based systems engineering"
+  authors: "<strong>Wu S</strong>, et al."
+  status: "Ongoing"

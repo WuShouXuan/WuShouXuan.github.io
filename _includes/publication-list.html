@@ -1,0 +1,118 @@
+{% assign sorted_items = include.items | sort: "year" | reverse %}
+{% assign grouped_items = sorted_items | group_by: "year" %}
+
+<section
+        class="pub-section"
+        id="{{ include.section_id }}"
+        aria-labelledby="{{ include.section_id }}-title"
+>
+    <header class="pub-section__header">
+        <div>
+            <p class="pub-section__eyebrow">
+                {{ include.eyebrow }}
+            </p>
+
+            <h2
+                    class="pub-section__title"
+                    id="{{ include.section_id }}-title"
+            >
+                {{ include.title }}
+            </h2>
+        </div>
+
+        <span
+                class="pub-section__count"
+                aria-label="{{ include.items | size }} items"
+        >
+      {{ include.items | size }}
+    </span>
+    </header>
+
+    {% for year_group in grouped_items %}
+    <div class="pub-year">
+        <div class="pub-year__column">
+        <span class="pub-year__label">
+          {{ year_group.name }}
+        </span>
+        </div>
+
+        <div class="pub-year__items">
+            {% for item in year_group.items %}
+            <article class="pub-card">
+                <div class="pub-card__content">
+                    <h3 class="pub-card__title">
+                        {% if item.url %}
+                        <a href="{{ item.url }}">
+                            {{ item.title }}
+                        </a>
+                        {% else %}
+                        {{ item.title }}
+                        {% endif %}
+                    </h3>
+
+                    {% if item.authors %}
+                    <p class="pub-card__authors">
+                        {{ item.authors }}
+                    </p>
+                    {% endif %}
+
+                    {% if item.venue %}
+                    <p class="pub-card__venue">
+                  <span class="pub-card__venue-name">
+                    {{ item.venue }}
+                  </span>
+
+                        {% if item.details %}
+                        <span class="pub-card__details">
+                      {{ item.details }}
+                    </span>
+                        {% endif %}
+                    </p>
+                    {% endif %}
+
+                    {% if item.status %}
+                    <p class="pub-card__status">
+                        {{ item.status }}
+                    </p>
+                    {% endif %}
+
+                    {% if item.role or item.tags %}
+                    <div
+                            class="pub-card__tags"
+                            aria-label="Publication metadata"
+                    >
+                        {% if item.role %}
+                        <span class="pub-tag pub-tag--strong">
+                      {{ item.role }}
+                    </span>
+                        {% endif %}
+
+                        {% if item.tags %}
+                        {% for tag in item.tags %}
+                        <span class="pub-tag">
+                        {{ tag }}
+                      </span>
+                        {% endfor %}
+                        {% endif %}
+                    </div>
+                    {% endif %}
+                </div>
+
+                {% if item.url %}
+                <div class="pub-card__action">
+                    <a
+                            class="pub-paper-link"
+                            href="{{ item.url }}"
+                            aria-label="Open paper: {{ item.title | escape }}"
+                    >
+                        <span>Paper</span>
+                        <span aria-hidden="true">↗</span>
+                    </a>
+                </div>
+                {% endif %}
+            </article>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</section>
