@@ -20,9 +20,9 @@ redirect_from:
 # About Me
 
 
-I currently a researcher holding a Ph.D. in Mechanical Engineering from Beijing Institute of Technology (BIT) and currently work as a researcher
+I am currently a researcher holding a Ph.D. in Mechanical Engineering from Beijing Institute of Technology (BIT).
 From 2024 to 2025, I was a guest researcher at the [SIRIUS Research Centre](https://sirius-labs.no/) at the University of Oslo. 
-I am also an INCOSE-certified Associate Systems Engineering Professional (ASEP).
+I am also certified the INCOSE Associate Systems Engineering Professional (ASEP).
 
 [//]: # (- I have published over 10 papers on journals and conferences, and hold over 15 granted/accepted patents.)
 

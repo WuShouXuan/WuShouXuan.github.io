@@ -16,18 +16,16 @@ author_profile: true
     class="pub-hero"
     aria-labelledby="publications-page-title"
   >
-    <p class="pub-hero__eyebrow">
-      Research Output
-    </p>
+
+
 
     <h1 id="publications-page-title">
       Publications
     </h1>
 
     <p class="pub-hero__description">
-      My research focuses on cognitive digital thread, model-based systems
-      engineering, ontology engineering, traceability management, and
-      service-oriented engineering tool-chains.
+      My current research focuses on digital thread and model-based systems
+      engineering.
     </p>
 
     <div
@@ -74,10 +72,10 @@ author_profile: true
     deep-blue label style.
   </p>
 
-{% include publication-list.html section_id="journal-papers" eyebrow="Peer-reviewed research" title="Journal Papers" items=journal_items %}
+{% include publication-list.html section_id="journal-papers"  title="Journal Papers" items=journal_items %}
 
-{% include publication-list.html section_id="conference-papers" eyebrow="Conference proceedings" title="Conference Papers" items=conference_items %}
+{% include publication-list.html section_id="conference-papers"  title="Conference Papers" items=conference_items %}
 
-{% include publication-list.html section_id="working-papers" eyebrow="Research in progress" title="Working Papers" items=working_items %}
+{% include publication-list.html section_id="working-papers"  title="Working Papers" items=working_items %}
 
 </div>
