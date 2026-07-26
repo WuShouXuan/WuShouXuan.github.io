@@ -2,31 +2,27 @@
   year: 2024
   title: "Design ontology for cognitive thread supporting traceability management in model-based systems engineering"
   authors: "Wu S, Wang G, Lu J, et al"
-  venue: "Journal of Industrial Information Integration"
+  journal_id: "journal-industrial-information-integration:"
   details: "40: 100619"
   url: "https://www.sciencedirect.com/science/article/pii/S0360835226001245"
   image: "/images/publications/JIII2024Wu.png"
   image_alt: "Test"
   role: "Corresponding author"
-  tags:
-    - "SCI"
-    - "IF 7.3"
-    - "Top Journal"
+  paper_tags:
+    - "Chinese"
 
 - type: journal
   year: 2026
   title: "A domain knowledge-enhanced MBSE framework for developing knowledge-based inspection systems: A case study on overhead crane inspection"
   authors: "Yang C, Hu X, Wang Z, et al."
-  venue: "Computers & Industrial Engineering"
+  journal_id: "computers-industrial-engineering"
   details: "216: 111923"
   url: "https://www.sciencedirect.com/science/article/pii/S0360835226001245"
   image: "/images/publications/JIII2024Wu.png"
   image_alt: "Test"
   role: "Corresponding author"
-  tags:
-    - "SCI"
-    - "IF 7.3"
-    - "Top Journal"
+  paper_tags:
+    - "Chinese"
 
 
 # Conference papers

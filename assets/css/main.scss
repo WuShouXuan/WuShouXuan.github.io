@@ -784,7 +784,42 @@ h1:before,
     border-color: #123f6b;
 }
 
+/* --------------------------------------------------------------------------
+   Journal metrics and paper-specific tags
+   -------------------------------------------------------------------------- */
 
+.publications-page .pub-tag--metric {
+    color: #0b294a;
+    background: #e8eff6;
+    border-color: #b9cadb;
+}
+
+.publications-page .pub-tag--paper {
+    color: #53687c;
+    background: #f8fafc;
+    border-color: #d5dee7;
+}
+
+
+/* Journal name link */
+
+.page__content .publications-page .pub-card__venue-link {
+    color: #45596c;
+    font-style: italic;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.page__content .publications-page .pub-card__venue-link:visited {
+    color: #45596c;
+}
+
+.page__content .publications-page .pub-card__venue-link:hover,
+.page__content .publications-page .pub-card__venue-link:focus {
+    color: #194b78;
+    text-decoration: underline;
+    text-underline-offset: 0.14em;
+}
 /* --------------------------------------------------------------------------
    Paper link
    -------------------------------------------------------------------------- */

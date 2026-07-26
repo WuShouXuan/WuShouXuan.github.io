@@ -1,0 +1,138 @@
+# ============================================================================
+# Journal metrics configuration
+#
+# 每年只需要修改本文件中的 metrics。
+# publications.yml 通过 journal_id 引用这里的期刊。
+#
+# 下面的部分指标沿用你原 publications.yml 中的数据，
+# 请根据最新 JCR、中科院分区表等来源自行核验更新。
+# ============================================================================
+
+_meta:
+  edition: ""
+  updated_at: ""
+  note: "Impact factors and quartiles are updated annually."
+
+computers-industrial-engineering:
+  name: "Computers & Industrial Engineering"
+  short_name: "C&IE"
+  url: "https://www.sciencedirect.com/journal/computers-and-industrial-engineering"
+
+  metrics:
+    year: ""
+    impact_factor: 7.3
+    jcr_quartile:
+    cas_quartile:
+    indexed_by:
+      - "SCI"
+    top_journal: true
+
+advanced-engineering-informatics:
+  name: "Advanced Engineering Informatics"
+  short_name: "AEI"
+  url: "https://www.sciencedirect.com/journal/advanced-engineering-informatics"
+
+  metrics:
+    year: ""
+    impact_factor: 11.5
+    jcr_quartile:
+    cas_quartile:
+    indexed_by:
+      - "SCI"
+    top_journal: true
+
+journal-industrial-information-integration:
+  name: "Journal of Industrial Information Integration"
+  short_name: "JIII"
+  url: "https://www.sciencedirect.com/journal/journal-of-industrial-information-integration"
+
+  metrics:
+    year: ""
+    impact_factor: 11.2
+    jcr_quartile:
+    cas_quartile:
+    indexed_by:
+      - "SCI"
+    top_journal: true
+
+journal-engineering-design:
+  name: "Journal of Engineering Design"
+  short_name: "JED"
+  url: "https://www.tandfonline.com/journals/cjen20"
+
+  metrics:
+    year: ""
+    impact_factor: 4.1
+    jcr_quartile:
+    cas_quartile:
+    indexed_by:
+      - "SCI"
+    top_journal: false
+
+computer-integrated-manufacturing-systems:
+  name: "Computer Integrated Manufacturing Systems"
+  short_name: "CIMS"
+  url: "https://www.cims-journal.cn/"
+
+  metrics:
+    year: ""
+    impact_factor:
+    jcr_quartile:
+    cas_quartile:
+    indexed_by:
+      - "EI"
+    top_journal: false
+
+journal-mechanical-engineering:
+  name: "Journal of Mechanical Engineering"
+  short_name: "JME"
+  url: "https://www.cjmenet.com.cn/"
+
+  metrics:
+    year: ""
+    impact_factor:
+    jcr_quartile:
+    cas_quartile:
+    indexed_by:
+      - "EI"
+    top_journal: true
+
+systems-engineering-electronics:
+  name: "Systems Engineering and Electronics"
+  short_name: "SEE"
+  url: "https://www.sys-ele.com/"
+
+  metrics:
+    year: ""
+    impact_factor:
+    jcr_quartile:
+    cas_quartile:
+    indexed_by:
+      - "EI"
+    top_journal: false
+
+journal-graphics:
+  name: "Journal of Graphics"
+  short_name: "JOG"
+  url: "https://www.tuxuexuebao.net/"
+
+  metrics:
+    year: ""
+    impact_factor:
+    jcr_quartile:
+    cas_quartile:
+    indexed_by: []
+    top_journal: false
+
+journal-system-engineering:
+  name: "Journal of Systems Engineering"
+  short_name: "JSE"
+  url: ""
+
+  metrics:
+    year: ""
+    impact_factor:
+    jcr_quartile:
+    cas_quartile:
+    indexed_by: []
+    top_journal: false

@@ -38,11 +38,25 @@
 
         <div class="pub-year__items">
             {% for item in year_group.items %}
+
+            {% assign journal_info = false %}
+            {% assign journal_metrics = false %}
+
+            {% if item.type == "journal" and item.journal_id %}
+            {% assign journal_info = site.data.journals[item.journal_id] %}
+
+            {% if journal_info %}
+            {% assign journal_metrics = journal_info.metrics %}
+            {% endif %}
+            {% endif %}
+
+            {% assign paper_tags = item.paper_tags | default: item.tags %}
+
             <article class="pub-card">
 
                 <div class="pub-card__body">
 
-                    <!-- 左侧缩略图 -->
+                    <!-- Thumbnail -->
                     <div class="pub-card__thumbnail">
                         {% if item.image %}
                         {% if item.url %}
@@ -76,7 +90,7 @@
                         {% endif %}
                     </div>
 
-                    <!-- 中间论文信息 -->
+                    <!-- Publication content -->
                     <div class="pub-card__content">
                         <h3 class="pub-card__title">
                             {% if item.url %}
@@ -94,7 +108,30 @@
                         </p>
                         {% endif %}
 
-                        {% if item.venue %}
+                        <!-- Journal or conference venue -->
+                        {% if journal_info %}
+                        <p class="pub-card__venue">
+                            {% if journal_info.url %}
+                            <a
+                                    class="pub-card__venue-link"
+                                    href="{{ journal_info.url }}"
+                            >
+                                {{ journal_info.name }}
+                            </a>
+                            {% else %}
+                            <span class="pub-card__venue-name">
+                        {{ journal_info.name }}
+                      </span>
+                            {% endif %}
+
+                            {% if item.details %}
+                            <span class="pub-card__details">
+                        {{ item.details }}
+                      </span>
+                            {% endif %}
+                        </p>
+
+                        {% elsif item.venue %}
                         <p class="pub-card__venue">
                     <span class="pub-card__venue-name">
                       {{ item.venue }}
@@ -114,7 +151,8 @@
                         </p>
                         {% endif %}
 
-                        {% if item.role or item.tags %}
+                        <!-- Role, journal metrics and paper-specific tags -->
+                        {% if item.role or journal_metrics or paper_tags %}
                         <div
                                 class="pub-card__tags"
                                 aria-label="Publication metadata"
@@ -125,9 +163,60 @@
                       </span>
                             {% endif %}
 
-                            {% if item.tags %}
-                            {% for tag in item.tags %}
-                            <span class="pub-tag">
+                            {% if journal_metrics %}
+
+                            {% if journal_metrics.indexed_by %}
+                            {% for index_name in journal_metrics.indexed_by %}
+                            <span class="pub-tag pub-tag--metric">
+                            {{ index_name }}
+                          </span>
+                            {% endfor %}
+                            {% endif %}
+
+                            {% if journal_metrics.impact_factor %}
+                            <span
+                                    class="pub-tag pub-tag--metric"
+                                    {% if journal_metrics.year %}
+                                    title="Impact factor, {{ journal_metrics.year }}"
+                                    {% endif %}
+                            >
+                          IF {{ journal_metrics.impact_factor }}
+                        </span>
+                            {% endif %}
+
+                            {% if journal_metrics.jcr_quartile %}
+                            <span
+                                    class="pub-tag pub-tag--metric"
+                                    {% if journal_metrics.year %}
+                                    title="JCR quartile, {{ journal_metrics.year }}"
+                                    {% endif %}
+                            >
+                          JCR {{ journal_metrics.jcr_quartile }}
+                        </span>
+                            {% endif %}
+
+                            {% if journal_metrics.cas_quartile %}
+                            <span
+                                    class="pub-tag pub-tag--metric"
+                                    {% if journal_metrics.year %}
+                                    title="CAS quartile, {{ journal_metrics.year }}"
+                                    {% endif %}
+                            >
+                          CAS {{ journal_metrics.cas_quartile }}
+                        </span>
+                            {% endif %}
+
+                            {% if journal_metrics.top_journal %}
+                            <span class="pub-tag pub-tag--metric">
+                          Top Journal
+                        </span>
+                            {% endif %}
+
+                            {% endif %}
+
+                            {% if paper_tags %}
+                            {% for tag in paper_tags %}
+                            <span class="pub-tag pub-tag--paper">
                           {{ tag }}
                         </span>
                             {% endfor %}
@@ -138,7 +227,6 @@
 
                 </div>
 
-                <!-- 右侧论文按钮 -->
                 {% if item.url %}
                 <div class="pub-card__action">
                     <a
