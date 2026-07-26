@@ -1,15 +1,41 @@
 - type: journal
   year: 2024
   title: "Design ontology for cognitive thread supporting traceability management in model-based systems engineering"
-  authors: "Wu S, Wang G, Lu J, et al"
-  journal_id: "journal-industrial-information-integration:"
+  authors: "<strong>Wu S</strong>, Wang G, Lu J, et al"
+  journal_id: "journal-industrial-information-integration"
   details: "40: 100619"
   url: "https://www.sciencedirect.com/science/article/pii/S0360835226001245"
   image: "/images/publications/JIII2024Wu.png"
   image_alt: "Test"
-  role: "Corresponding author"
+  role: "First author"
   paper_tags:
-    - "Chinese"
+    - "English"
+
+- type: journal
+  year: 2025
+  title: "Digital thread in engineering: Concept, state of art, and enabling framework"
+  authors: "<strong>Wu S</strong>, Wang G, Lu J, et al"
+  journal_id: "advanced-engineering-informatics"
+  details: "65: 103258"
+  url: "https://www.sciencedirect.com/science/article/pii/S147403462500151X"
+  image: "/images/publications/AEI2025WuReview.png"
+  image_alt: "Test"
+  role: "First author"
+  paper_tags:
+    - "English"
+
+- type: journal
+  year: 2025
+  title: "Cognitive digital thread tool-chain for model versioning in model-based systems engineering"
+  authors: "<strong>Wu S</strong>, Wang G, Lu J, et al"
+  journal_id: "advanced-engineering-informatics"
+  details: "67: 103490"
+  url: "https://www.sciencedirect.com/science/article/pii/S1474034625003830"
+  image: "/images/publications/AEI2025WuTool.png"
+  image_alt: "Test"
+  role: "First author"
+  paper_tags:
+    - "English"
 
 - type: journal
   year: 2026
@@ -18,11 +44,148 @@
   journal_id: "computers-industrial-engineering"
   details: "216: 111923"
   url: "https://www.sciencedirect.com/science/article/pii/S0360835226001245"
-  image: "/images/publications/JIII2024Wu.png"
+  image: "/images/publications/CIE2026Yang.png"
   image_alt: "Test"
   role: "Corresponding author"
   paper_tags:
+    - "English"
+
+- type: journal
+  year: 2026
+  title: "Insights into ontology-based model-based systems engineering: state of the art and enabling framework"
+  authors: "Dong M, Wang G, Lu J, et al"
+  journal_id: "advanced-engineering-informatics"
+  details: "76: 104947"
+  url: "https://www.sciencedirect.com/science/article/pii/S1474034626006397"
+  image: "/images/publications/AEI2026Dong.png"
+  image_alt: "Test"
+  role: "Co-author"
+  paper_tags:
+    - "English"
+
+- type: journal
+  year: 2025
+  title: "Ontology formalism and semantic rules supporting traceability management in model-based systems engineering"
+  authors: "Dong M, Wang G, Lu J, et al"
+  journal_id: "journal-engineering-design"
+  details: "1–26"
+  url: "https://www.tandfonline.com/doi/citedby/10.1080/09544828.2025.2532291?scroll=top&needAccess=true"
+  image: "/images/publications/JED2025Dong.png"
+  image_alt: "Test"
+  role: "Co-author"
+  paper_tags:
+    - "English"
+
+- type: journal
+  year: 2025
+  title: "Multi-architecture design method for landing gear system based on domain specific modeling"
+  authors: "<strong>Wu S</strong>, Wang G, Liang Z, et al"
+  journal_id: "journal-mechanical-engineering"
+  details: "61(19):273-289"
+  url: "https://doi.org/10.3901/JME.2025.19.273"
+  image: "/images/publications/JME2025Wu.png"
+  image_alt: "Test"
+  role: "First author"
+  paper_tags:
     - "Chinese"
+
+- type: journal
+  year: 2026
+  title: "Cognitive digital thread for model-based systems engineering: Reference framework, enabling technologies, and typical scenarios"
+  authors: "<strong>Wu S</strong>, Wang G, Lu J, et al"
+  journal_id: "computer-integrated-manufacturing-systems"
+  details: "32(2):469-487"
+  url: "https://doi.org/10.13196/j.cims.2025.0219"
+  image: "/images/publications/CIMS2026Wu.png"
+  image_alt: "Test"
+  role: "First author"
+  paper_tags:
+    - "Chinese"
+
+- type: journal
+  year: 2026
+  title: "Research on modeling and simulation methods for complex systems with hybrid logic and behavior"
+  authors: "Zhang Z, Wang G, Lu J, et al"
+  journal_id: "computer-integrated-manufacturing-systems"
+  details: "1-27[2026-07-15]"
+  url: "https://doi.org/10.13196/j.cims.2025.0369"
+  image: "/images/publications/CIMS2026Zhang.png"
+  image_alt: "Test"
+  role: "Co-author"
+  paper_tags:
+    - "Chinese"
+    - "Online"
+
+- type: journal
+  year: 2025
+  title: "Review on architecture model quality in model-based systems engineering: concept, framework, technologies"
+  authors: "Gong Y, Wang G, Lu J, et al"
+  journal_id: "systems-engineering-electronics"
+  details: "1-16[2025-11-29]"
+  url: "https://link.cnki.net/urlid/11.2422.tn.20251128.1046.004"
+  image: "/images/publications/ESE2025Gong.png"
+  image_alt: "Test"
+  role: "Co-author"
+  paper_tags:
+    - "Chinese"
+    - "Online"
+
+- type: journal
+  year: 2025
+  title: "A model-based systems engineering approach for spatial intelligence"
+  authors: "Lu J, Wang G, Tang X, et al"
+  journal_id: "systems-engineering-electronics"
+  details: "1-15[2025-11-29]"
+  url: "https://link.cnki.net/urlid/11.2422.TN.20251128.1032.002"
+  image: "/images/publications/ESE2025Lu.png"
+  image_alt: "Test"
+  role: "Co-author"
+  paper_tags:
+    - "Chinese"
+    - "Online"
+
+- type: journal
+  year: 2025
+  title: "Model integration technology for landing gear system based on MBSE"
+  authors: "Zhang H, Wang G, Liang Z, et al"
+  journal_id: "journal-graphics"
+  details: "1-13[2025-02-15]"
+  url: "http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html"
+  image: "/images/publications/JG2025Zhang.png"
+  image_alt: "Test"
+  role: "Co-author"
+  paper_tags:
+    - "Chinese"
+    - "Online"
+
+- type: journal
+  year: 2023
+  title: "Traceability Management Approach for Complex System Development based on MBSE"
+  authors: "Lan X, Yao Z, <strong>Wu S</strong>, et al"
+  journal_id: "journal-system-engineering"
+  details: "38(03): 289-303"
+  url: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nXR1RVd4vjM9-ikWwjMRHBM0DIwiQduspghC_PlFnYvhSfVgt8w46m&uniplatform=NZKPT"
+  image: "/images/publications/JSE2023Lan.png"
+  image_alt: "Test"
+  role: "Co-author"
+  paper_tags:
+    - "Chinese"
+
+- type: journal
+  year: 2023
+  title: "System Engineering Modeling Methodology based on Multi-architectural Modeling Language"
+  authors: "Lu J, Wang G, Yan Y, et al"
+  journal_id: "journal-system-engineering"
+  details: "38(02): 146-160"
+  url: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UM3Lwras80PPKnwTyz39tdgxnrUTZZKokPZsZjfzURRQ&uniplatform=NZKPT"
+  image: "/images/publications/JSE2023Lu.png"
+  image_alt: "Test"
+  role: "Co-author"
+  paper_tags:
+    - "Chinese"
+
+
+
 
 
 # Conference papers
@@ -30,10 +193,10 @@
 - type: conference
   year: 2026
   title: "Cognitive digital thread supporting agile reuse of document-based knowledge in model-based systems engineering"
-  authors: "<strong>Wu S</strong>, et al."
+  authors: "Qiao J, Wang G, Lu J, et al."
   venue: "IEEE International Systems Conference (SysCon)"
   url: "https://ieeexplore.ieee.org/abstract/document/11503597"
-  image: "/images/publications/JIII2024Wu.png"
+  image: "/images/publications/SYSCON2026Qiao.png"
   image_alt: "Test"
   role: "Corresponding author"
   tags:
@@ -42,41 +205,94 @@
 - type: conference
   year: 2026
   title: "A Formal Verification Approach for Measures of Effectiveness Based on Satisfiability Modulo Theories"
-  authors: "Authors"
+  authors: "Yuan Y, Wang G, Gong Y, et al."
   venue: "IEEE International Systems Conference (SysCon)"
   url: "https://ieeexplore.ieee.org/abstract/document/11503555"
-  image: "/images/publications/JIII2024Wu.png"
+  image: "/images/publications/SYSCON2026Yuan.png"
   image_alt: "Test"
   role: "Corresponding author"
   tags:
     - "IEEE"
 
 - type: conference
+  year: 2023
+  title: "A Service-oriented Approach Supporting Model Integration in Model-based Systems Engineering"
+  authors: "Chen R, Wang G, Wu S, et al."
+  venue: "IEEE International Systems Conference (SysCon)"
+  url: "https://ieeexplore.ieee.org/abstract/document/10131078"
+  image: "/images/publications/SYSCON2023Chen.png"
+  image_alt: "Test"
+  role: "Co-author"
+  tags:
+    - "IEEE"
+
+- type: conference
+  year: 2022
+  title: "Semantic Model‐based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025"
+  authors: "Lu J, Wang G, Yan Y, et al."
+  venue: "INCOSE International Symposium (INCOSE IS)"
+  url: "https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/iis2.12959"
+  image: "/images/publications/INCOSEIS2022Lu.png"
+  image_alt: "Test"
+  role: "Co-author"
+  tags:
+    - "Wiley"
+
+- type: conference
+  year: 2021
+  title: "A Knowledge Management Approach Supporting Model-Based Systems Engineering"
+  authors: "Yang P, Lu J, Lei F, et al."
+  venue: "World Conference on Information Systems and Technologies 2021"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-72651-5_55"
+  image: "/images/publications/C2021Yang.png"
+  image_alt: "Test"
+  role: "Co-author"
+  tags:
+    - "Springer"
+
+
+- type: conference
   year: 2025
   title: "Cognitive digital thread for intelligent traceability establishment in model-based systems engineering"
-  authors: "<strong>Wu S</strong>, et al."
+  authors: "Huang J, Wang G, <strong>Wu S</strong>, et al."
   venue: "IEEE International Symposium on Systems Engineering (ISSE)"
   url: "https://ieeexplore.ieee.org/document/11370120"
-  image: "/images/publications/JIII2024Wu.png"
+  image: "/images/publications/ISSE2025Huang.png"
   image_alt: "Test"
   role: "Corresponding author"
   tags:
     - "IEEE"
 
+- type: conference
+  year: 2021
+  title: "Cognitive Thread Supports System of Systems for Complex System Development"
+  authors: "<strong>Wu S</strong>, Lu J, Hu Z, et al."
+  venue: "16th International Conference of System of Systems Engineering (SoSE)"
+  url: "https://ieeexplore.ieee.org/document/11370120"
+  image: "/images/publications/SOSE2021Wu.png"
+  image_alt: "Test"
+  role: "First author"
+  tags:
+    - "IEEE"
 # Working papers
 
 - type: working
   year: 2026
   title: "A model-based systems engineering framework for integrated asset information modeling and simulation"
-  authors: "<strong>Wu S</strong>, et al."
   status: "Under Review"
-  image: "/images/publications/JIII2024Wu.png"
-  image_alt: "Test"
+
 
 - type: working
   year: 2026
-  title: "Cognitive digital thread tool-chain for model federation in model-based systems engineering"
-  authors: "<strong>Wu S</strong>, et al."
+  title: "Digital Thread Paper Analysis based on Word Cloud Visualization"
   status: "Ongoing"
-  image: "/images/publications/JIII2024Wu.png"
-  image_alt: "Test"
+
+- type: working
+  year: 2026
+  title: "Cognitive digital thread support design conflict resolution in model-based systems engineering"
+  status: "Ongoing"
+
+- type: working
+  year: 2026
+  title: "A semantic model-based systems engineering approach supporting circular manufacturing of photovoltaics"
+  status: "Ongoing"

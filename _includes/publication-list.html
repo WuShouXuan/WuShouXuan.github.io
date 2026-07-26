@@ -52,10 +52,10 @@
 
             {% assign paper_tags = item.paper_tags | default: item.tags %}
 
-            <article class="pub-card">
+            <article class="pub-card{% if item.type == 'working' %} pub-card--working{% endif %}">
 
                 <div class="pub-card__body">
-
+                    {% unless item.type == "working" %}
                     <!-- Thumbnail -->
                     <div class="pub-card__thumbnail">
                         {% if item.image %}
@@ -102,7 +102,7 @@
                             {% endif %}
                         </h3>
 
-                        {% if item.authors %}
+                        {% if item.type != "working" and item.authors %}
                         <p class="pub-card__authors">
                             {{ item.authors }}
                         </p>

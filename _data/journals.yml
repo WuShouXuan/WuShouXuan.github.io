@@ -19,10 +19,10 @@ computers-industrial-engineering:
   url: "https://www.sciencedirect.com/journal/computers-and-industrial-engineering"
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor: 7.3
-    jcr_quartile:
-    cas_quartile:
+    jcr_quartile: Q1
+    cas_quartile: Q1
     indexed_by:
       - "SCI"
     top_journal: true
@@ -33,10 +33,10 @@ advanced-engineering-informatics:
   url: "https://www.sciencedirect.com/journal/advanced-engineering-informatics"
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor: 11.5
-    jcr_quartile:
-    cas_quartile:
+    jcr_quartile: Q1
+    cas_quartile: Q1
     indexed_by:
       - "SCI"
     top_journal: true
@@ -47,10 +47,10 @@ journal-industrial-information-integration:
   url: "https://www.sciencedirect.com/journal/journal-of-industrial-information-integration"
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor: 11.2
-    jcr_quartile:
-    cas_quartile:
+    jcr_quartile: Q1
+    cas_quartile: Q1
     indexed_by:
       - "SCI"
     top_journal: true
@@ -61,10 +61,10 @@ journal-engineering-design:
   url: "https://www.tandfonline.com/journals/cjen20"
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor: 4.1
-    jcr_quartile:
-    cas_quartile:
+    jcr_quartile: Q1
+    cas_quartile: Q3
     indexed_by:
       - "SCI"
     top_journal: false
@@ -75,7 +75,7 @@ computer-integrated-manufacturing-systems:
   url: "https://www.cims-journal.cn/"
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor:
     jcr_quartile:
     cas_quartile:
@@ -89,13 +89,13 @@ journal-mechanical-engineering:
   url: "https://www.cjmenet.com.cn/"
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor:
     jcr_quartile:
     cas_quartile:
     indexed_by:
       - "EI"
-    top_journal: true
+    top_journal: false
 
 systems-engineering-electronics:
   name: "Systems Engineering and Electronics"
@@ -103,7 +103,7 @@ systems-engineering-electronics:
   url: "https://www.sys-ele.com/"
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor:
     jcr_quartile:
     cas_quartile:
@@ -117,7 +117,7 @@ journal-graphics:
   url: "https://www.tuxuexuebao.net/"
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor:
     jcr_quartile:
     cas_quartile:
@@ -130,7 +130,7 @@ journal-system-engineering:
   url: ""
 
   metrics:
-    year: ""
+    year: "2026"
     impact_factor:
     jcr_quartile:
     cas_quartile:
