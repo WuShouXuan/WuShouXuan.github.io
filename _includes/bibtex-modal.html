@@ -18,13 +18,18 @@
     >
         <header class="bibtex-modal__header">
             <div class="bibtex-modal__heading">
-                <p class="bibtex-modal__eyebrow">
-                    Citation
-                </p>
+        <span class="bibtex-modal__eyebrow">
+          Citation export
+        </span>
 
                 <h2 id="bibtex-modal-title">
                     BibTeX
                 </h2>
+
+                <p
+                        class="bibtex-modal__paper-title"
+                        id="bibtex-modal-paper-title"
+                ></p>
             </div>
 
             <button
@@ -33,7 +38,12 @@
                     data-bibtex-close
                     aria-label="Close BibTeX dialog"
             >
-                ×
+                <svg
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                >
+                    <path d="M6 6l12 12M18 6 6 18"></path>
+                </svg>
             </button>
         </header>
 
@@ -41,23 +51,27 @@
                 class="bibtex-modal__description"
                 id="bibtex-modal-description"
         >
-            Copy the BibTeX entry below and paste it into your bibliography file.
+            Copy this entry and paste it into your bibliography file.
         </p>
 
-        <label
-                class="bibtex-modal__label"
-                for="bibtex-modal-text"
-        >
-            BibTeX entry
-        </label>
+        <div class="bibtex-modal__code">
+            <div class="bibtex-modal__code-header">
+                <span>BibTeX entry</span>
 
-        <textarea
-                class="bibtex-modal__textarea"
-                id="bibtex-modal-text"
-                readonly
-                spellcheck="false"
-                wrap="off"
-        ></textarea>
+                <span class="bibtex-modal__file-type">
+          .bib
+        </span>
+            </div>
+
+            <textarea
+                    class="bibtex-modal__textarea"
+                    id="bibtex-modal-text"
+                    readonly
+                    spellcheck="false"
+                    wrap="off"
+                    aria-label="BibTeX entry"
+            ></textarea>
+        </div>
 
         <footer class="bibtex-modal__footer">
             <p
@@ -80,7 +94,24 @@
                         id="bibtex-copy-button"
                         type="button"
                 >
-                    Copy BibTeX
+                    <svg
+                            viewBox="0 0 24 24"
+                            aria-hidden="true"
+                    >
+                        <rect
+                                x="8"
+                                y="8"
+                                width="11"
+                                height="11"
+                                rx="2"
+                        ></rect>
+
+                        <path
+                                d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2"
+                        ></path>
+                    </svg>
+
+                    <span>Copy BibTeX</span>
                 </button>
             </div>
         </footer>

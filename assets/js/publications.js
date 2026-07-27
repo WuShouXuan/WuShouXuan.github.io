@@ -1,27 +1,69 @@
 (function () {
     "use strict";
 
-    document.addEventListener("DOMContentLoaded", function () {
+    function initBibtexModal() {
         var modal = document.getElementById("bibtex-modal");
 
         if (!modal) {
             return;
         }
 
-        var modalTitle = document.getElementById("bibtex-modal-title");
-        var bibtexField = document.getElementById("bibtex-modal-text");
-        var copyButton = document.getElementById("bibtex-copy-button");
-        var status = document.getElementById("bibtex-modal-status");
+        var modalTitle = document.getElementById(
+            "bibtex-modal-paper-title"
+        );
+
+        var bibtexField = document.getElementById(
+            "bibtex-modal-text"
+        );
+
+        var copyButton = document.getElementById(
+            "bibtex-copy-button"
+        );
+
+        var status = document.getElementById(
+            "bibtex-modal-status"
+        );
+
+        if (
+            !modalTitle ||
+            !bibtexField ||
+            !copyButton ||
+            !status
+        ) {
+            return;
+        }
 
         var lastTrigger = null;
+        var copyResetTimer = null;
 
         function getFocusableElements() {
             return Array.prototype.slice.call(
                 modal.querySelectorAll(
-                    "button:not([disabled]), textarea:not([disabled]), " +
-                    "a[href], input:not([disabled]), select:not([disabled])"
+                    [
+                        "button:not([disabled])",
+                        "textarea:not([disabled])",
+                        "a[href]",
+                        "input:not([disabled])",
+                        "select:not([disabled])"
+                    ].join(",")
                 )
             );
+        }
+
+        function getBibtexFromCard(card) {
+            var source = card.querySelector(
+                "template.pub-bibtex-source"
+            );
+
+            if (!source) {
+                return "";
+            }
+
+            if (source.content) {
+                return source.content.textContent.trim();
+            }
+
+            return source.textContent.trim();
         }
 
         function openModal(trigger) {
@@ -31,19 +73,19 @@
                 return;
             }
 
-            var source = card.querySelector(".pub-bibtex-source");
+            var bibtex = getBibtexFromCard(card);
 
-            if (!source) {
+            if (!bibtex) {
                 return;
             }
 
             lastTrigger = trigger;
 
-            var paperTitle =
-                trigger.getAttribute("data-bibtex-title") || "BibTeX";
+            modalTitle.textContent =
+                trigger.getAttribute("data-bibtex-title") ||
+                "Publication";
 
-            modalTitle.textContent = "BibTeX — " + paperTitle;
-            bibtexField.value = source.value.trim();
+            bibtexField.value = bibtex;
             status.textContent = "";
 
             modal.hidden = false;
@@ -58,8 +100,13 @@
             modal.hidden = true;
             document.body.classList.remove("bibtex-modal-open");
 
-            status.textContent = "";
             bibtexField.value = "";
+            status.textContent = "";
+
+            if (copyResetTimer) {
+                window.clearTimeout(copyResetTimer);
+                copyResetTimer = null;
+            }
 
             if (lastTrigger) {
                 lastTrigger.focus();
@@ -72,44 +119,70 @@
             bibtexField.focus();
             bibtexField.select();
 
-            return document.execCommand("copy");
+            try {
+                return document.execCommand("copy");
+            } catch (error) {
+                return false;
+            }
+        }
+
+        function showCopySuccess() {
+            status.textContent = "BibTeX copied to clipboard.";
+            copyButton.classList.add("is-copied");
+
+            if (copyResetTimer) {
+                window.clearTimeout(copyResetTimer);
+            }
+
+            copyResetTimer = window.setTimeout(function () {
+                copyButton.classList.remove("is-copied");
+                status.textContent = "";
+            }, 2200);
+        }
+
+        function showCopyFailure() {
+            status.textContent =
+                "Copy failed. Please select and copy the text manually.";
         }
 
         function copyBibtex() {
             var value = bibtexField.value;
 
             if (!value) {
-                status.textContent = "No BibTeX content is available.";
+                status.textContent =
+                    "No BibTeX content is available.";
                 return;
             }
 
-            if (navigator.clipboard && window.isSecureContext) {
+            if (
+                navigator.clipboard &&
+                window.isSecureContext
+            ) {
                 navigator.clipboard
                     .writeText(value)
-                    .then(function () {
-                        status.textContent = "BibTeX copied.";
-                        copyButton.focus();
-                    })
+                    .then(showCopySuccess)
                     .catch(function () {
-                        var copied = fallbackCopy();
-
-                        status.textContent = copied
-                            ? "BibTeX copied."
-                            : "Copy failed. Please select the text manually.";
+                        if (fallbackCopy()) {
+                            showCopySuccess();
+                        } else {
+                            showCopyFailure();
+                        }
                     });
 
                 return;
             }
 
-            var copied = fallbackCopy();
-
-            status.textContent = copied
-                ? "BibTeX copied."
-                : "Copy failed. Please select the text manually.";
+            if (fallbackCopy()) {
+                showCopySuccess();
+            } else {
+                showCopyFailure();
+            }
         }
 
         document.addEventListener("click", function (event) {
-            var openTrigger = event.target.closest("[data-bibtex-open]");
+            var openTrigger = event.target.closest(
+                "[data-bibtex-open]"
+            );
 
             if (openTrigger) {
                 event.preventDefault();
@@ -117,15 +190,23 @@
                 return;
             }
 
-            var closeTrigger = event.target.closest("[data-bibtex-close]");
+            var closeTrigger = event.target.closest(
+                "[data-bibtex-close]"
+            );
 
-            if (closeTrigger && !modal.hidden) {
+            if (
+                closeTrigger &&
+                !modal.hidden
+            ) {
                 event.preventDefault();
                 closeModal();
             }
         });
 
-        copyButton.addEventListener("click", copyBibtex);
+        copyButton.addEventListener(
+            "click",
+            copyBibtex
+        );
 
         document.addEventListener("keydown", function (event) {
             if (modal.hidden) {
@@ -149,7 +230,8 @@
             }
 
             var firstElement = focusable[0];
-            var lastElement = focusable[focusable.length - 1];
+            var lastElement =
+                focusable[focusable.length - 1];
 
             if (
                 event.shiftKey &&
@@ -165,5 +247,14 @@
                 firstElement.focus();
             }
         });
-    });
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener(
+            "DOMContentLoaded",
+            initBibtexModal
+        );
+    } else {
+        initBibtexModal();
+    }
 })();

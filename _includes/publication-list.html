@@ -51,6 +51,11 @@
             {% endif %}
 
             {% assign paper_tags = item.paper_tags | default: item.tags %}
+            {% assign show_bibtex = false %}
+
+            {% if item.type != "working" and item.bibtex %}
+            {% assign show_bibtex = true %}
+            {% endif %}
 
             {% assign show_bibtex = false %}
             {% if item.type != "working" and item.bibtex %}
@@ -235,14 +240,24 @@
                 <!-- Paper and BibTeX actions -->
                 {% if item.url or show_bibtex %}
                 <div class="pub-card__action">
+
                     {% if item.url %}
                     <a
                             class="pub-paper-link"
                             href="{{ item.url }}"
-                            aria-label="Open paper: {{ item.title | escape }}"
+                            aria-label="Open paper: {{ item.title | strip_html | escape }}"
                     >
                         <span>Paper</span>
-                        <span aria-hidden="true">↗</span>
+
+                        <svg
+                                class="pub-action-icon"
+                                viewBox="0 0 24 24"
+                                aria-hidden="true"
+                        >
+                            <path
+                                    d="M14 5h5v5M19 5l-8 8M18 13v5a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"
+                            ></path>
+                        </svg>
                     </a>
                     {% endif %}
 
@@ -251,21 +266,32 @@
                             class="pub-bibtex-button"
                             type="button"
                             data-bibtex-open
-                            data-bibtex-title="{{ item.title | escape }}"
+                            data-bibtex-title="{{ item.title | strip_html | escape }}"
                             aria-haspopup="dialog"
                             aria-controls="bibtex-modal"
                     >
                         <span>BibTeX</span>
-                        <span aria-hidden="true">{ }</span>
+
+                        <svg
+                                class="pub-action-icon"
+                                viewBox="0 0 24 24"
+                                aria-hidden="true"
+                        >
+                            <path d="M8.5 7.5 4 12l4.5 4.5"></path>
+                            <path d="m15.5 7.5 4.5 4.5-4.5 4.5"></path>
+                            <path d="m13.5 5-3 14"></path>
+                        </svg>
                     </button>
 
-                    <textarea
-                            class="pub-bibtex-source"
-                            hidden
-                            aria-hidden="true"
-                            tabindex="-1"
-                    >{{ item.bibtex | escape }}</textarea>
+                    <!--
+                      template 内容不会直接显示在页面上。
+                      JavaScript 点击按钮后才会读取其中的 BibTeX。
+                    -->
+                    <template class="pub-bibtex-source">
+                        {{ item.bibtex }}
+                    </template>
                     {% endif %}
+
                 </div>
                 {% endif %}
             </article>
