@@ -10,14 +10,15 @@
   role: "First author"
   bibtex: |-
     @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+      title={Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author={Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and Hu, Zhenchao and Yan, Yan and Kiritsis, Dimitris},
+      journal={Journal of Industrial Information Integration},
+      volume={40},
+      pages={100619},
+      year={2024},
+      publisher={Elsevier}
     }
+
   paper_tags:
     - "English"
 
@@ -32,14 +33,14 @@
   image_alt: "Test"
   role: "First author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{wu2025digital,
+      title={Digital thread in engineering: Concept, state of art, and enabling framework},
+      author={Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and Yan, Yan and Gong, Yihui and Dong, Mengru and Kiritsis, Dimitris},
+      journal={Advanced Engineering Informatics},
+      volume={65},
+      pages={103258},
+      year={2025},
+      publisher={Elsevier}
     }
   paper_tags:
     - "English"
@@ -55,14 +56,14 @@
   image_alt: "Test"
   role: "First author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{wu2025cognitive,
+      title={Cognitive digital thread tool-chain for model versioning in model-based systems engineering},
+      author={Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and Huang, Jianyu and Qiao, Jiaxing and Yan, Yan and Kiritsis, Dimitris},
+      journal={Advanced Engineering Informatics},
+      volume={67},
+      pages={103490},
+      year={2025},
+      publisher={Elsevier}
     }
   paper_tags:
     - "English"
@@ -78,14 +79,13 @@
   image_alt: "Test"
   role: "Corresponding author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{yang2026domain,
+      title={A domain knowledge-enhanced MBSE framework for developing knowledge-based inspection systems: A case study on overhead crane inspection},
+      author={Yang, Chao and Hu, Xiaodu and Wang, Zhengyang and Wu, Shouxuan and Lu, Jinzhi and Feng, Lei and Kiritsis, Dimitris and Tammi, Kari},
+      journal={Computers \& Industrial Engineering},
+      pages={111923},
+      year={2026},
+      publisher={Elsevier}
     }
   paper_tags:
     - "English"
@@ -101,14 +101,14 @@
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{dong2026insights,
+      title={Insights into ontology-based model-based systems engineering: state of the art and enabling framework},
+      author={Dong, Mengru and Wang, Guoxin and Lu, Jinzhi and Wu, Shouxuan and Gong, Yihui and Yan, Yan and Kiritsis, Dimitris},
+      journal={Advanced Engineering Informatics},
+      volume={76},
+      pages={104947},
+      year={2026},
+      publisher={Elsevier}
     }
   paper_tags:
     - "English"
@@ -124,14 +124,15 @@
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{dong2026ontology,
+      title={Ontology formalism and semantic rules supporting traceability management in model-based systems engineering},
+      author={Dong, Mengru and Wang, Guoxin and Lu, Jinzhi and Wu, Shouxuan and Ma, Junda},
+      journal={Journal of Engineering Design},
+      volume={37},
+      number={4},
+      pages={1255--1280},
+      year={2026},
+      publisher={Taylor \& Francis}
     }
   paper_tags:
     - "English"
@@ -147,14 +148,14 @@
   image_alt: "Test"
   role: "First author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{wu2025multi,
+      title={Multi-architecture design method for landing gear system based on domain specific modeling},
+      author={Wu, Shouxuan and Wang, Guoxin and Liang, Zan and Zhang, Tao and Qi, Zhenqiang and Lu, Jinzhi and Yan, Yan and Gong, Yihui and Zhang, Haoxuan and Zhang, Zhen},
+      journal={Journal of Mechanical Engineering},
+      volume={61},
+      number={19},
+      pages={273--289},
+      year={2025}
     }
   paper_tags:
     - "Chinese"
@@ -170,14 +171,14 @@
   image_alt: "Test"
   role: "First author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{wu2026cognitive,
+      title={Cognitive digital thread for model-based systems engineering: Reference framework, enabling technologies, and typical scenarios},
+      author={Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and Yan, Yan and Gong, Yihui and Dong, Mengru and Zhang, Haoxuan and Qiao, Jiaxing and Huang, Jianyu},
+      journal={Computer Integrated Manufacturing System},
+      volume={32},
+      number={2},
+      pages={469},
+      year={2026}
     }
   paper_tags:
     - "Chinese"
@@ -193,14 +194,14 @@
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{zhang2026research,
+      title={Research on modeling and simulation methods for complex systems with hybrid logic and behavior},
+      author={Zhang, Zhen and Wang, Guoxin and Lu, Jinzhi and Ma, Junda and Yan and Wu, Shouxuan and Gong, Yihui and Dong, Mengru and Yuan, Yongji},
+      journal={Computer Integrated Manufacturing System},
+      pages = {1-27},
+      issn = {1006-5911},
+      doi = {10.13196/j.cims.2025.0369}
+      year={2026}
     }
   paper_tags:
     - "Chinese"
@@ -211,72 +212,73 @@
   title: "Review on architecture model quality in model-based systems engineering: concept, framework, technologies"
   authors: "Gong Y, Wang G, Lu J, et al"
   journal_id: "systems-engineering-electronics"
-  details: "1-16[2025-11-29]"
+  details: "47(12):3890-3900"
   url: "https://link.cnki.net/urlid/11.2422.tn.20251128.1046.004"
   image: "/images/publications/ESE2025Gong.png"
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+    @article{gong2025review,
+      title   = {Review on architecture model quality in model-based systems engineering: concept, framework, technologies},
+      author  = {Gong, Yihui and Wang, Guoxin and Yan, Yan and Wu, Shouxuan and Dong, Mengru and Yuan, Yongji},
       journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+      volume = {47},
+      number = {12},
+      pages = {3890-3900},
+      year = {2025},
+      issn = {1001-506X},
     }
   paper_tags:
     - "Chinese"
-    - "Online"
 
 - type: journal
   year: 2025
   title: "A model-based systems engineering approach for spatial intelligence"
   authors: "Lu J, Wang G, Tang X, et al"
   journal_id: "systems-engineering-electronics"
-  details: "1-15[2025-11-29]"
+  details: "47(12):3877-3889"
   url: "https://link.cnki.net/urlid/11.2422.TN.20251128.1032.002"
   image: "/images/publications/ESE2025Lu.png"
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+    @article{lu2025spatial,
+      author = { Lu, Jinzhi and Wang, Guoxin and Tang, Xijin and  Tang, Junjie and Wen, Yuejie and Tang, Jian and Zhang, Yangyang and Lan, Xiaoping and Liu, Qi and Li, Junlin and Ma, Junda and Wu, Shouxuan and Hu, Xiaodu},      title = {A model-based systems engineering approach for spatial intelligence},
       journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+      volume = {47},
+      number = {12},
+      pages = {3877-3889},
+      year = {2025},
+      issn = {1001-506X},
     }
   paper_tags:
     - "Chinese"
-    - "Online"
+
 
 - type: journal
   year: 2025
   title: "Model integration technology for landing gear system based on MBSE"
   authors: "Zhang H, Wang G, Liang Z, et al"
   journal_id: "journal-graphics"
-  details: "1-13[2025-02-15]"
+  details: "46(3):686-696"
   url: "http://kns.cnki.net/kcms/detail/10.1034.T.20250212.1625.002.html"
   image: "/images/publications/JG2025Zhang.png"
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{zhang2025integration,
+      title   = {Model integration technology for landing gear system based on MBSE},
+      author  = {Zhang, Haoxuan and Liang, Zan and Wang, Guoxin and Wu, Shouxuan and Lu, Jinzhi and Yan, Yan and Yuan, Yongji and Qiao, Jiaxing},
+      journal = {Journal of Graphics},
+      volume = {46},
+      number = {3},
+      pages = {686-696},
+      year = {2025},
+      issn = {2095-302X},
     }
+
   paper_tags:
     - "Chinese"
-    - "Online"
 
 - type: journal
   year: 2023
@@ -289,14 +291,16 @@
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @article{lan2023traceability,
+      title  = {Traceability Management Approach for Complex System Development based on MBSE},
+      author = { Lan, Xiaoping and Yao, Zhiqiang and Wu, Shouxuan and  Wang, Guoxin and Yang, Jianxin},
+      journal = {Journal of Systems Engineering},
+      volume = {38},
+      number = {3},
+      pages = {289-303},
+      year = {2023},
+      issn = {1000-5781},
+      doi = {10.13383/j.cnki.jse.2023.03.01}
     }
   paper_tags:
     - "Chinese"
@@ -313,13 +317,15 @@
   role: "Co-author"
   bibtex: |-
     @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+      title   = {System Engineering Modeling Methodology based on Multi-architectural Modeling Language},
+      author = { Lu, Jinzhi and Wang, Guoxin and Yan, Yan and Feng, Lei and Zhang, Yangyang and Tang, Xijin and Tang, Jian and Zhang, Huisheng and Wang, Jian and Zheng, Xiaochen and Ma, Junda and Wu, Shouxuan and Chen, Jinwei and Wen, Yuejie},
+      journal = {Journal of Systems Engineering},
+      volume = {38},
+      number = {2},
+      pages = {146-160},
+      year = {2023},
+      issn = {1000-5781},
+      doi = {10.13383/j.cnki.jse.2023.02.001}
     }
   paper_tags:
     - "Chinese"
@@ -340,14 +346,13 @@
   image_alt: "Test"
   role: "Corresponding author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @inproceedings{qiao2026cognitive,
+      title={Cognitive digital thread supporting agile reuse of knowledge in model-based systems engineering},
+      author={Qiao, Jiaxing and Wang, Guoxin and Wu, Shouxuan and Lu, Jinzhi and Zhang, Haoxuan and Huang, Jianyu},
+      booktitle={2026 IEEE International Systems Conference (SysCon)},
+      pages={1--8},
+      year={2026},
+      organization={IEEE}
     }
   tags:
     - "IEEE"
@@ -362,14 +367,13 @@
   image_alt: "Test"
   role: "Corresponding author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @inproceedings{yuan2026formal,
+      title={A Formal Verification Approach for Measures of Effectiveness Based on Satisfiability Modulo Theories},
+      author={Yuan, Yongji and Wang, Guoxin and Gong, Yihui and Lu, Jinzhi and Wu, Shouxuan and Dong, Mengru},
+      booktitle={2026 IEEE International Systems Conference (SysCon)},
+      pages={1--8},
+      year={2026},
+      organization={IEEE}
     }
   tags:
     - "IEEE"
@@ -384,14 +388,13 @@
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @inproceedings{chen2023service,
+      title={A service-oriented approach supporting model integration in model-based systems engineering},
+      author={Chen, Rui and Wang, Guoxin and Wu, Shouxuan and Lu, Jinzhi and Yan, Yan},
+      booktitle={2023 IEEE International Systems Conference (SysCon)},
+      pages={1--7},
+      year={2023},
+      organization={IEEE}
     }
   tags:
     - "IEEE"
@@ -406,14 +409,15 @@
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @inproceedings{lu2022karma,
+      title={Semantic Model-based Systems Engineering based on KARMA: A Research and Practice Roadmap 2025},
+      author={Lu, Jinzhi and Wang, Guoxin and Yan, Yan and Cameron, David and Lei, Feng and Zhang, Yangyang and Tang, Xijin and Wang, Jian and Tang, Junjie and Tang, Jian and others},
+      booktitle={INCOSE International Symposium},
+      volume={32},
+      number={1},
+      pages={706--720},
+      year={2022},
+      organization={Wiley Online Library}
     }
   tags:
     - "Wiley"
@@ -428,14 +432,13 @@
   image_alt: "Test"
   role: "Co-author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @inproceedings{yang2021knowledge,
+      title={A knowledge management approach supporting model-based systems engineering},
+      author={Yang, Pengfei and Lu, Jinzhi and Feng, Lei and Wu, Shouxuan and Wang, Guoxin and Kiritsis, Dimitris},
+      booktitle={Trends and Applications in Information Systems and Technologies: Volume 2 9},
+      pages={581--590},
+      year={2021},
+      organization={Springer}
     }
   tags:
     - "Springer"
@@ -451,14 +454,13 @@
   image_alt: "Test"
   role: "Corresponding author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @inproceedings{huang2025cognitive,
+      title={Cognitive digital thread for intelligent traceability establishment in model-based systems engineering},
+      author={Huang, Jianyu and Wang, Guoxin and Wu, Shouxuan and Lu, Jinzhi and Zhang, Haoxuan and Qiao, Jiaxing},
+      booktitle={2025 IEEE International Symposium on Systems Engineering (ISSE)},
+      pages={1--8},
+      year={2025},
+      organization={IEEE}
     }
   tags:
     - "IEEE"
@@ -473,14 +475,13 @@
   image_alt: "Test"
   role: "First author"
   bibtex: |-
-    @article{wu2024design,
-      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
-      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
-      journal = {Journal of Industrial Information Integration},
-      volume  = {40},
-      pages   = {100619},
-      year    = {2024},
-      doi     = {10.1016/j.jii.2024.100619}
+    @inproceedings{wu2021cognitive,
+      title={Cognitive Thread Supports System of Systems for Complex System Development},
+      author={Wu, Shouxuan and Lu, Jinzhi and Hu, Zhenchao and Yang, Pengfei and Wang, Guoxin and Kiritsis, Dimitris},
+      booktitle={2021 16th International Conference of System of Systems Engineering (SoSE)},
+      pages={82--87},
+      year={2021},
+      organization={IEEE}
     }
   tags:
     - "IEEE"
