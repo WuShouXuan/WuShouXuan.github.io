@@ -1,0 +1,88 @@
+<div
+        class="bibtex-modal"
+        id="bibtex-modal"
+        hidden
+>
+    <div
+            class="bibtex-modal__backdrop"
+            data-bibtex-close
+            aria-hidden="true"
+    ></div>
+
+    <section
+            class="bibtex-modal__dialog"
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="bibtex-modal-title"
+            aria-describedby="bibtex-modal-description"
+    >
+        <header class="bibtex-modal__header">
+            <div class="bibtex-modal__heading">
+                <p class="bibtex-modal__eyebrow">
+                    Citation
+                </p>
+
+                <h2 id="bibtex-modal-title">
+                    BibTeX
+                </h2>
+            </div>
+
+            <button
+                    class="bibtex-modal__close"
+                    type="button"
+                    data-bibtex-close
+                    aria-label="Close BibTeX dialog"
+            >
+                ×
+            </button>
+        </header>
+
+        <p
+                class="bibtex-modal__description"
+                id="bibtex-modal-description"
+        >
+            Copy the BibTeX entry below and paste it into your bibliography file.
+        </p>
+
+        <label
+                class="bibtex-modal__label"
+                for="bibtex-modal-text"
+        >
+            BibTeX entry
+        </label>
+
+        <textarea
+                class="bibtex-modal__textarea"
+                id="bibtex-modal-text"
+                readonly
+                spellcheck="false"
+                wrap="off"
+        ></textarea>
+
+        <footer class="bibtex-modal__footer">
+            <p
+                    class="bibtex-modal__status"
+                    id="bibtex-modal-status"
+                    aria-live="polite"
+            ></p>
+
+            <div class="bibtex-modal__actions">
+                <button
+                        class="bibtex-modal__secondary-button"
+                        type="button"
+                        data-bibtex-close
+                >
+                    Close
+                </button>
+
+                <button
+                        class="bibtex-modal__copy-button"
+                        id="bibtex-copy-button"
+                        type="button"
+                >
+                    Copy BibTeX
+                </button>
+            </div>
+        </footer>
+    </section>
+</div>

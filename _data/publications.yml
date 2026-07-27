@@ -8,6 +8,16 @@
   image: "/images/publications/JIII2024Wu.png"
   image_alt: "Test"
   role: "First author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "English"
 
@@ -21,6 +31,16 @@
   image: "/images/publications/AEI2025WuReview.png"
   image_alt: "Test"
   role: "First author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "English"
 
@@ -34,6 +54,16 @@
   image: "/images/publications/AEI2025WuTool.png"
   image_alt: "Test"
   role: "First author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "English"
 
@@ -47,6 +77,16 @@
   image: "/images/publications/CIE2026Yang.png"
   image_alt: "Test"
   role: "Corresponding author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "English"
 
@@ -60,6 +100,16 @@
   image: "/images/publications/AEI2026Dong.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "English"
 
@@ -73,6 +123,16 @@
   image: "/images/publications/JED2025Dong.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "English"
 
@@ -86,6 +146,16 @@
   image: "/images/publications/JME2025Wu.png"
   image_alt: "Test"
   role: "First author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "Chinese"
 
@@ -99,6 +169,16 @@
   image: "/images/publications/CIMS2026Wu.png"
   image_alt: "Test"
   role: "First author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "Chinese"
 
@@ -112,6 +192,16 @@
   image: "/images/publications/CIMS2026Zhang.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "Chinese"
     - "Online"
@@ -126,6 +216,16 @@
   image: "/images/publications/ESE2025Gong.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "Chinese"
     - "Online"
@@ -140,6 +240,16 @@
   image: "/images/publications/ESE2025Lu.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "Chinese"
     - "Online"
@@ -154,6 +264,16 @@
   image: "/images/publications/JG2025Zhang.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "Chinese"
     - "Online"
@@ -168,6 +288,16 @@
   image: "/images/publications/JSE2023Lan.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "Chinese"
 
@@ -181,6 +311,16 @@
   image: "/images/publications/JSE2023Lu.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   paper_tags:
     - "Chinese"
 
@@ -199,6 +339,16 @@
   image: "/images/publications/SYSCON2026Qiao.png"
   image_alt: "Test"
   role: "Corresponding author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   tags:
     - "IEEE"
 
@@ -211,6 +361,16 @@
   image: "/images/publications/SYSCON2026Yuan.png"
   image_alt: "Test"
   role: "Corresponding author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   tags:
     - "IEEE"
 
@@ -223,6 +383,16 @@
   image: "/images/publications/SYSCON2023Chen.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   tags:
     - "IEEE"
 
@@ -235,6 +405,16 @@
   image: "/images/publications/INCOSEIS2022Lu.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   tags:
     - "Wiley"
 
@@ -247,6 +427,16 @@
   image: "/images/publications/C2021Yang.png"
   image_alt: "Test"
   role: "Co-author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   tags:
     - "Springer"
 
@@ -260,6 +450,16 @@
   image: "/images/publications/ISSE2025Huang.png"
   image_alt: "Test"
   role: "Corresponding author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   tags:
     - "IEEE"
 
@@ -272,6 +472,16 @@
   image: "/images/publications/SOSE2021Wu.png"
   image_alt: "Test"
   role: "First author"
+  bibtex: |-
+    @article{wu2024design,
+      title   = {Design ontology for cognitive thread supporting traceability management in model-based systems engineering},
+      author  = {Wu, Shouxuan and Wang, Guoxin and Lu, Jinzhi and others},
+      journal = {Journal of Industrial Information Integration},
+      volume  = {40},
+      pages   = {100619},
+      year    = {2024},
+      doi     = {10.1016/j.jii.2024.100619}
+    }
   tags:
     - "IEEE"
 # Working papers

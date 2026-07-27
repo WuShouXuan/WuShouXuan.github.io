@@ -78,4 +78,5 @@ author_profile: true
 
 {% include publication-list.html section_id="working-papers"  title="Working Papers" items=working_items %}
 
+{% include bibtex-modal.html %}
 </div>

@@ -52,11 +52,18 @@
 
             {% assign paper_tags = item.paper_tags | default: item.tags %}
 
-            <article class="pub-card{% if item.type == 'working' %} pub-card--working{% endif %}">
+            {% assign show_bibtex = false %}
+            {% if item.type != "working" and item.bibtex %}
+            {% assign show_bibtex = true %}
+            {% endif %}
 
+            <article
+                    class="pub-card{% if item.type == 'working' %} pub-card--working{% endif %}"
+            >
                 <div class="pub-card__body">
+
+                    <!-- Working items do not display thumbnails -->
                     {% unless item.type == "working" %}
-                    <!-- Thumbnail -->
                     <div class="pub-card__thumbnail">
                         {% if item.image %}
                         {% if item.url %}
@@ -90,7 +97,7 @@
                         {% endif %}
                     </div>
                     {% endunless %}
-                    <!-- Publication content -->
+
                     <div class="pub-card__content">
                         <h3 class="pub-card__title">
                             {% if item.url %}
@@ -102,13 +109,14 @@
                             {% endif %}
                         </h3>
 
+                        <!-- Working items do not display authors -->
                         {% if item.type != "working" and item.authors %}
                         <p class="pub-card__authors">
                             {{ item.authors }}
                         </p>
                         {% endif %}
 
-                        <!-- Journal or conference venue -->
+                        <!-- Journal venue -->
                         {% if journal_info %}
                         <p class="pub-card__venue">
                             {% if journal_info.url %}
@@ -131,6 +139,7 @@
                             {% endif %}
                         </p>
 
+                        <!-- Conference venue or legacy journal data -->
                         {% elsif item.venue %}
                         <p class="pub-card__venue">
                     <span class="pub-card__venue-name">
@@ -151,7 +160,6 @@
                         </p>
                         {% endif %}
 
-                        <!-- Role, journal metrics and paper-specific tags -->
                         {% if item.role or journal_metrics or paper_tags %}
                         <div
                                 class="pub-card__tags"
@@ -164,7 +172,6 @@
                             {% endif %}
 
                             {% if journal_metrics %}
-
                             {% if journal_metrics.indexed_by %}
                             {% for index_name in journal_metrics.indexed_by %}
                             <span class="pub-tag pub-tag--metric">
@@ -211,7 +218,6 @@
                           Top Journal
                         </span>
                             {% endif %}
-
                             {% endif %}
 
                             {% if paper_tags %}
@@ -224,11 +230,12 @@
                         </div>
                         {% endif %}
                     </div>
-
                 </div>
 
-                {% if item.url %}
+                <!-- Paper and BibTeX actions -->
+                {% if item.url or show_bibtex %}
                 <div class="pub-card__action">
+                    {% if item.url %}
                     <a
                             class="pub-paper-link"
                             href="{{ item.url }}"
@@ -237,9 +244,30 @@
                         <span>Paper</span>
                         <span aria-hidden="true">↗</span>
                     </a>
+                    {% endif %}
+
+                    {% if show_bibtex %}
+                    <button
+                            class="pub-bibtex-button"
+                            type="button"
+                            data-bibtex-open
+                            data-bibtex-title="{{ item.title | escape }}"
+                            aria-haspopup="dialog"
+                            aria-controls="bibtex-modal"
+                    >
+                        <span>BibTeX</span>
+                        <span aria-hidden="true">{ }</span>
+                    </button>
+
+                    <textarea
+                            class="pub-bibtex-source"
+                            hidden
+                            aria-hidden="true"
+                            tabindex="-1"
+                    >{{ item.bibtex | escape }}</textarea>
+                    {% endif %}
                 </div>
                 {% endif %}
-
             </article>
             {% endfor %}
         </div>
