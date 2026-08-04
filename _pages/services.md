@@ -10,6 +10,7 @@ author_profile: true
 # 💼 Service
 ## Journal Reviewer
 - _[Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration)_
+- _[Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics)_
 - _[Digital Engineering](https://www.sciencedirect.com/journal/digital-engineering)_
 - _[Aerospace Science and Technology](https://www.sciencedirect.com/journal/aerospace-science-and-technology)_
 - _[Array](https://www.sciencedirect.com/journal/array)_
