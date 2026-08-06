@@ -34,11 +34,131 @@ My current research focuses on Cognitive Digital Thread (CDT) in Model-based Sys
 
 
 
-# 📖 Educations
-- *2024.11 - 2025.11*, <img src='images/oslo.png' style="width: 1em;"> University of Oslo, SIRIUS Research Center. Visiting Scholar.
-- *2020.06 - 2026.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Mechanical Engineering. Ph.D.
-- *2016.09 - 2020.06*, <img src='images/bit.png' style="width: 1em;"> Beijing Institute of Technology, Industrial Engineering. B.Eng.
+<span class="anchor" id="experience"></span>
 
+# Experience & Education
+
+<div class="about-timeline" aria-label="Experience and education timeline">
+
+  <article class="about-timeline__item">
+    <div class="about-timeline__card">
+
+      <div class="about-timeline__logo">
+        <img
+          src="{{ '/images/oslo.png' | relative_url }}"
+          alt="University of Oslo logo"
+          loading="lazy"
+        >
+      </div>
+
+      <div class="about-timeline__content">
+        <div class="about-timeline__topline">
+          <span class="about-timeline__category">
+            Research Experience
+          </span>
+
+          <time class="about-timeline__period">
+            Nov 2024 – Nov 2025
+          </time>
+        </div>
+
+        <h3 class="about-timeline__institution">
+          <a href="https://sirius-labs.no/">
+            University of Oslo
+          </a>
+        </h3>
+
+        <p class="about-timeline__role">
+          Guest Researcher
+        </p>
+
+        <p class="about-timeline__detail">
+          SIRIUS Research Centre · Oslo, Norway
+        </p>
+      </div>
+
+    </div>
+  </article>
+
+
+  <article class="about-timeline__item">
+    <div class="about-timeline__card">
+
+      <div class="about-timeline__logo">
+        <img
+          src="{{ '/images/bit.png' | relative_url }}"
+          alt="Beijing Institute of Technology logo"
+          loading="lazy"
+        >
+      </div>
+
+      <div class="about-timeline__content">
+        <div class="about-timeline__topline">
+          <span class="about-timeline__category">
+            Education
+          </span>
+
+          <time class="about-timeline__period">
+            Jun 2020 – Jun 2026
+          </time>
+        </div>
+
+        <h3 class="about-timeline__institution">
+          Beijing Institute of Technology
+        </h3>
+
+        <p class="about-timeline__role">
+          Ph.D. in Mechanical Engineering
+        </p>
+
+        <p class="about-timeline__detail">
+          School of Mechanical Engineering · Beijing, China
+        </p>
+      </div>
+
+    </div>
+  </article>
+
+
+  <article class="about-timeline__item">
+    <div class="about-timeline__card">
+
+      <div class="about-timeline__logo">
+        <img
+          src="{{ '/images/bit.png' | relative_url }}"
+          alt="Beijing Institute of Technology logo"
+          loading="lazy"
+        >
+      </div>
+
+      <div class="about-timeline__content">
+        <div class="about-timeline__topline">
+          <span class="about-timeline__category">
+            Education
+          </span>
+
+          <time class="about-timeline__period">
+            Sep 2016 – Jun 2020
+          </time>
+        </div>
+
+        <h3 class="about-timeline__institution">
+          Beijing Institute of Technology
+        </h3>
+
+        <p class="about-timeline__role">
+          B.Eng. in Industrial Engineering
+        </p>
+
+        <p class="about-timeline__detail">
+          School of Mechanical Engineering · Beijing, China
+        </p>
+      </div>
+
+    </div>
+  </article>
+
+</div>
 
 # 🔥 News & Updates
 
