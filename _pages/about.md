@@ -53,20 +53,17 @@ My current research focuses on Cognitive Digital Thread (CDT) in Model-based Sys
 
       <div class="about-timeline__content">
         <div class="about-timeline__topline">
-          <span class="about-timeline__category">
-            Research Experience
-          </span>
+        <h3 class="about-timeline__institution">
 
+            University of Oslo
+
+        </h3>
           <time class="about-timeline__period">
             Nov 2024 – Nov 2025
           </time>
         </div>
 
-        <h3 class="about-timeline__institution">
-          <a href="https://sirius-labs.no/">
-            University of Oslo
-          </a>
-        </h3>
+
 
         <p class="about-timeline__role">
           Guest Researcher
@@ -94,18 +91,16 @@ My current research focuses on Cognitive Digital Thread (CDT) in Model-based Sys
 
       <div class="about-timeline__content">
         <div class="about-timeline__topline">
-          <span class="about-timeline__category">
-            Education
-          </span>
 
+        <h3 class="about-timeline__institution">
+          Beijing Institute of Technology
+        </h3>
           <time class="about-timeline__period">
             Jun 2020 – Jun 2026
           </time>
         </div>
 
-        <h3 class="about-timeline__institution">
-          Beijing Institute of Technology
-        </h3>
+
 
         <p class="about-timeline__role">
           Ph.D. in Mechanical Engineering
@@ -133,18 +128,16 @@ My current research focuses on Cognitive Digital Thread (CDT) in Model-based Sys
 
       <div class="about-timeline__content">
         <div class="about-timeline__topline">
-          <span class="about-timeline__category">
-            Education
-          </span>
 
+            <h3 class="about-timeline__institution">
+              Beijing Institute of Technology
+            </h3>
           <time class="about-timeline__period">
             Sep 2016 – Jun 2020
           </time>
         </div>
 
-        <h3 class="about-timeline__institution">
-          Beijing Institute of Technology
-        </h3>
+
 
         <p class="about-timeline__role">
           B.Eng. in Industrial Engineering
