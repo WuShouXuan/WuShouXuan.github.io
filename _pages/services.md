@@ -15,7 +15,8 @@ author_profile: true
 - _[Aerospace Science and Technology](https://www.sciencedirect.com/journal/aerospace-science-and-technology)_
 - _[Array](https://www.sciencedirect.com/journal/array)_
 - _[Computer Standards & Interfaces](https://www.sciencedirect.com/journal/computer-standards-and-interfaces)_
-- _[International Journal of Medical Informatics](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)_
+- _[Future transportation](https://www.mdpi.com/journal/futuretransp)_  
+- _[Systems](https://www.mdpi.com/journal/systems)_
 
 ## Scientific Societies Role
 - [INCOSE Associate Systems Engineering Professional (ASEP) (No.11257)](https://www.credential.net/9aecf748-f872-4375-9e6b-8861348af485#acc.7XGzUOoW)
