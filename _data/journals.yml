@@ -69,6 +69,20 @@ journal-engineering-design:
       - "SCI"
     top_journal: false
 
+internation-journal-of-production-research:
+  name: "Internation Journal of Production Research"
+  short_name: "IJPR"
+  url: "https://www.tandfonline.com/journals/tprs20"
+
+  metrics:
+    year: "2026"
+    impact_factor: 8.7
+    jcr_quartile: Q1
+    cas_quartile: Q2
+    indexed_by:
+      - "SCI"
+    top_journal: true
+
 computer-integrated-manufacturing-systems:
   name: "Computer Integrated Manufacturing Systems"
   short_name: "CIMS"

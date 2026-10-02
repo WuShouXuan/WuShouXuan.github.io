@@ -8,16 +8,17 @@ main:
   - title: "Publications"
     url: "/publications/"
 
+  - title: "Recognition"
+    url: "/gallery/"
 
-
-  - title: "Honors and Awards"
-    url: "/honors/"
-
-
-
-  - title: "Talks"
-    url: "/talks/"
-
-  - title: "Service"
-    url: "/services/"
+#  - title: "Honors and Awards"
+#    url: "/honors/"
+#
+#
+#
+#  - title: "Talks"
+#    url: "/talks/"
+#
+#  - title: "Service"
+#    url: "/services/"
 
