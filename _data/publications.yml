@@ -1,3 +1,24 @@
+- type: book
+  year: 2026
+  title: "Model-driven manufacturing information representation in smart manufacturing"
+  authors: "<strong>Wu S</strong>, Yufan Liu, Guoxin Wang, et al"
+  venue: "Smart Manufacturing 5.0: Sustainability, Human-Centricity and Resilience"
+  details: "chapter 14"
+  url: "https://shop.elsevier.com/books/smart-manufacturing-50/rossit/978-0-443-40477-1"
+  image: "/images/publications/SM50.png"
+  image_alt: "Book cover"
+  role: "First author"
+  bibtex: |-
+    @incollection{wu2026example,
+      title={你的书籍或章节标题},
+      author={Wu, Shouxuan and Other, Author},
+      booktitle={书籍名称},
+      year={2026},
+      publisher={出版社}
+    }
+  tags:
+    - "Book Chapter"
+
 - type: journal
   year: 2024
   title: "Design ontology for cognitive thread supporting traceability management in model-based systems engineering"

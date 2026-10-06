@@ -53,6 +53,12 @@
             {% assign paper_tags = item.paper_tags | default: item.tags %}
             {% assign show_bibtex = false %}
 
+            {% assign resource_label = "Paper" %}
+
+            {% if item.type == "book" %}
+            {% assign resource_label = "Book / Chapter" %}
+            {% endif %}
+
             {% if item.type != "working" and item.bibtex %}
             {% assign show_bibtex = true %}
             {% endif %}
@@ -75,7 +81,7 @@
                         <a
                                 class="pub-card__thumbnail-link"
                                 href="{{ item.url }}"
-                                aria-label="Open paper: {{ item.title | escape }}"
+                                aria-label="Open {{ resource_label | downcase }}: {{ item.title | escape }}"
                         >
                             <img
                                     src="{{ item.image | relative_url }}"
@@ -245,9 +251,9 @@
                     <a
                             class="pub-paper-link"
                             href="{{ item.url }}"
-                            aria-label="Open paper: {{ item.title | strip_html | escape }}"
+                            aria-label="Open {{ resource_label | downcase }}: {{ item.title | strip_html | escape }}"
                     >
-                        <span>Paper</span>
+                        <span>{{ resource_label }}</span>
 
                         <svg
                                 class="pub-action-icon"

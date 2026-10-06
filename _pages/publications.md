@@ -9,6 +9,7 @@ author_profile: true
 {% assign journal_items = site.data.publications | where: "type", "journal" %}
 {% assign conference_items = site.data.publications | where: "type", "conference" %}
 {% assign working_items = site.data.publications | where: "type", "working" %}
+{% assign book_items = site.data.publications | where: "type", "book" %}
 
 <div class="publications-page">
 
@@ -32,6 +33,11 @@ author_profile: true
       class="pub-stats"
       aria-label="Publication statistics"
     >
+
+      <div class="pub-stat">
+        <strong>{{ book_items | size }}</strong>
+        <span>Books(Chapters)</span>
+      </div>
       <div class="pub-stat">
         <strong>{{ journal_items | size }}</strong>
         <span>Journal Papers</span>
@@ -53,6 +59,9 @@ author_profile: true
     class="pub-jump-nav"
     aria-label="Publication sections"
   >
+    <a href="#books-and-chapters">
+      Books &amp; Book Chapters
+    </a>
     <a href="#journal-papers">
       Journal Papers
     </a>
@@ -71,6 +80,8 @@ author_profile: true
     Author roles and indexing information are displayed using a unified
     deep-blue label style.
   </p>
+
+{% include publication-list.html section_id="books-and-chapters" title="Books & Book Chapters" items=book_items %}
 
 {% include publication-list.html section_id="journal-papers"  title="Journal Papers" items=journal_items %}
 
