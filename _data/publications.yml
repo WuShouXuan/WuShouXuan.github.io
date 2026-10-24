@@ -20,6 +20,30 @@
     - "Book Chapter"
 
 - type: journal
+  year: 2026
+  title: "A model-based systems engineering framework for integrated asset information modeling and simulation"
+  authors: "<strong>Wu S</strong>, Yang C, Liu Y, et al"
+  journal_id: "internation-journal-of-production-research"
+  details: "1–33"
+  url: "https://doi.org/10.1080/00207543.2026.2747855"
+  image: "/images/publications/IJPR2026WuIMF.png"
+  image_alt: "Framework for integrated asset information modelling and simulation"
+  role: "First author"
+  bibtex: |-
+    @article{wu2026asset,
+      title={A model-based systems engineering framework for integrated asset information modelling and simulation},
+      author={Wu, Shouxuan and Yang, Chao and Liu, Yufan and Zhang, Haoxuan and Zhang, Zhen and Cameron, David B. and Psarommatis, Foivos and Waaler, Arild and Kiritsis, Dimitris and Qu, Yuanwei and Wang, Guoxin and Lu, Jinzhi},
+      journal={International Journal of Production Research},
+      year={2026},
+      doi={10.1080/00207543.2026.2747855},
+      url={https://doi.org/10.1080/00207543.2026.2747855},
+      publisher={Taylor \& Francis},
+    }
+
+  paper_tags:
+    - "English"
+
+- type: journal
   year: 2024
   title: "Design ontology for cognitive thread supporting traceability management in model-based systems engineering"
   authors: "<strong>Wu S</strong>, Wang G, Lu J, et al"
@@ -508,10 +532,7 @@
     - "IEEE"
 # Working papers
 
-- type: working
-  year: 2026
-  title: "A model-based systems engineering framework for integrated asset information modeling and simulation"
-  status: "Accepted"
+
 
 
 - type: working

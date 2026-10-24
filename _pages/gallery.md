@@ -16,9 +16,9 @@ author_profile: true
 - Excellence award for dormitory 😉 (Beijing Institute of Technology, China, 2025)
 
 # 💬 Talks
-- *2025.10*, "Cognitive digital thread for intelligent traceability establishment in model-based systems engineering" invited by IEEE ISSE 2025
+- *2025.10*, "Cognitive digital thread for intelligent traceability establishment in model-based systems engineering" for IEEE ISSE 2025
 - *2023.03*, "基于多架构建模语言的系统工程建模方法" invited by in System Engineering Society of China  \| [\[video\]](https://www.bilibili.com/video/BV1Ph4y1M7HQ/?spm_id_from=333.999.0.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
-- *2021.06*, "Cognitive Thread Supports System of Systems for Complex System Development" invited by SoSE 2021  \| [\[video\]](https://www.bilibili.com/video/BV1jr4y1r7Gp/?spm_id_from=333.788.videocard.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
+- *2021.06*, "Cognitive Thread Supports System of Systems for Complex System Development" for SoSE 2021  \| [\[video\]](https://www.bilibili.com/video/BV1jr4y1r7Gp/?spm_id_from=333.788.videocard.0&vd_source=0eeaaf8c44af71ea00cedc4c27622906)
 
 
 # 💼 Service
@@ -29,6 +29,7 @@ author_profile: true
 - _[Aerospace Science and Technology](https://www.sciencedirect.com/journal/aerospace-science-and-technology)_
 - _[Array](https://www.sciencedirect.com/journal/array)_
 - _[Computer Standards & Interfaces](https://www.sciencedirect.com/journal/computer-standards-and-interfaces)_
+- _[Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering)_
 - _[Future transportation](https://www.mdpi.com/journal/futuretransp)_  
 - _[Systems](https://www.mdpi.com/journal/systems)_
 - _[Applied Sciences](https://www.mdpi.com/journal/applsci)_
@@ -41,3 +42,4 @@ author_profile: true
 
 ## Conference technical program committee/reviewer
 - [IEEE SysCon 2026](https://2026.ieeesyscon.org/)
+- [IEEE SysCon 2027](https://ieeesyscon.org/2027)
