@@ -30,6 +30,8 @@ author_profile: true
 - _[Array](https://www.sciencedirect.com/journal/array)_
 - _[Computer Standards & Interfaces](https://www.sciencedirect.com/journal/computer-standards-and-interfaces)_
 - _[Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering)_
+- _[Journal of water process engineering](https://www.sciencedirect.com/journal/journal-of-water-process-engineering)_
+- _[High-speed Railway](https://www.sciencedirect.com/journal/high-speed-railway)_
 - _[Future transportation](https://www.mdpi.com/journal/futuretransp)_  
 - _[Systems](https://www.mdpi.com/journal/systems)_
 - _[Applied Sciences](https://www.mdpi.com/journal/applsci)_
